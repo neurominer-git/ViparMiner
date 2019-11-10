@@ -1,0 +1,33 @@
+use AppConfig;
+use CGI::Carp qw(fatalsToBrowser);
+use CGI::Cookie;
+use CGI::Session;
+use CGI;
+use Crypt::GeneratePassword qw(word chars);
+use DBI;
+use Data::Dumper;
+use Date::Format;
+use DateTime::TimeZone;
+use DateTime;
+use Fcntl;             # for sysopen
+use File::DirList;
+use File::stat;
+use IO::Handle;
+use IO::Socket::INET;
+use Locale::Country;
+use Log::Dispatch::File::Rolling; #for shared flocking
+use Log::Dispatch::File; 
+use Log::Dispatch::FileRotate;
+use Log::Dispatch::FileShared; #for shared flocking
+use Log::Dispatch;
+use MIME::Lite;
+use Misc::Stopwatch;
+use PDF::Create;
+use POSIX qw(getpid);
+use Proc::Daemon;
+use Scalar::Util qw(looks_like_number);
+use Time::localtime;
+use strict;
+use threads;
+use threads::shared;
+use warnings;

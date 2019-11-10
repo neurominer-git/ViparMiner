@@ -1,0 +1,1267 @@
+October 29 15:40:23 Checking 1 sites configured in VIPAR database
+October 29 15:40:23 Process 2844:thread 10396 checking resource via localhost:23
+October 29 15:40:23 Process 2844:thread 10397 checking resource via localhost:22
+October 29 15:40:23 Process 2844:thread 10398 checking resource via localhost:22
+October 29 15:40:26 Could not connect to remote VIPAR database resource unimuen on port 23. dbi:mysql:unimuen:127.0.0.1:23, remoteselect, clepridros Error: Lost connection to MySQL server at 'reading initial communication packet', system error: 0
+October 29 15:42:30 Could not connect to remote VIPAR database resource test on port 22. dbi:mysql:test:127.0.0.1:22, remoteselect, clepridros Error: Lost connection to MySQL server at 'reading initial communication packet', system error: 0
+October 29 15:42:30 Could not connect to remote VIPAR database resource lvdondz on port 22. dbi:mysql:lvdondz:127.0.0.1:22, remoteselect, clepridros Error: Lost connection to MySQL server at 'reading initial communication packet', system error: 0
+October 29 15:45:23 Checking 1 sites configured in VIPAR database
+October 29 15:45:23 Process 2844:thread 10399 checking resource via localhost:23
+October 29 15:45:23 Process 2844:thread 10400 checking resource via localhost:22
+October 29 15:45:23 Process 2844:thread 10401 checking resource via localhost:22
+October 29 15:45:26 Could not connect to remote VIPAR database resource unimuen on port 23. dbi:mysql:unimuen:127.0.0.1:23, remoteselect, clepridros Error: Lost connection to MySQL server at 'reading initial communication packet', system error: 0
+October 29 15:47:31 Could not connect to remote VIPAR database resource test on port 22. dbi:mysql:test:127.0.0.1:22, remoteselect, clepridros Error: Lost connection to MySQL server at 'reading initial communication packet', system error: 0
+October 29 15:47:31 Could not connect to remote VIPAR database resource lvdondz on port 22. dbi:mysql:lvdondz:127.0.0.1:22, remoteselect, clepridros Error: Lost connection to MySQL server at 'reading initial communication packet', system error: 0
+October 29 15:50:23 Checking 1 sites configured in VIPAR database
+October 29 15:50:23 Process 2844:thread 10402 checking resource via localhost:23
+October 29 15:50:23 Process 2844:thread 10403 checking resource via localhost:22
+October 29 15:50:23 Process 2844:thread 10404 checking resource via localhost:22
+October 29 15:50:26 Could not connect to remote VIPAR database resource unimuen on port 23. dbi:mysql:unimuen:127.0.0.1:23, remoteselect, clepridros Error: Lost connection to MySQL server at 'reading initial communication packet', system error: 0
+October 29 15:52:30 Could not connect to remote VIPAR database resource test on port 22. dbi:mysql:test:127.0.0.1:22, remoteselect, clepridros Error: Lost connection to MySQL server at 'reading initial communication packet', system error: 0
+October 29 15:52:30 Could not connect to remote VIPAR database resource lvdondz on port 22. dbi:mysql:lvdondz:127.0.0.1:22, remoteselect, clepridros Error: Lost connection to MySQL server at 'reading initial communication packet', system error: 0
+October 29 15:55:23 Checking 1 sites configured in VIPAR database
+October 29 15:55:23 Process 2844:thread 10405 checking resource via localhost:23
+October 29 15:55:23 Process 2844:thread 10406 checking resource via localhost:22
+October 29 15:55:23 Process 2844:thread 10407 checking resource via localhost:22
+October 29 15:55:26 Could not connect to remote VIPAR database resource unimuen on port 23. dbi:mysql:unimuen:127.0.0.1:23, remoteselect, clepridros Error: Lost connection to MySQL server at 'reading initial communication packet', system error: 0
+October 29 15:57:31 Could not connect to remote VIPAR database resource lvdondz on port 22. dbi:mysql:lvdondz:127.0.0.1:22, remoteselect, clepridros Error: Lost connection to MySQL server at 'reading initial communication packet', system error: 0
+October 29 15:57:31 Could not connect to remote VIPAR database resource test on port 22. dbi:mysql:test:127.0.0.1:22, remoteselect, clepridros Error: Lost connection to MySQL server at 'reading initial communication packet', system error: 0
+October 29 16:00:23 Checking 1 sites configured in VIPAR database
+October 29 16:00:23 Process 2844:thread 10408 checking resource via localhost:23
+October 29 16:00:23 Process 2844:thread 10409 checking resource via localhost:22
+October 29 16:00:23 Process 2844:thread 10410 checking resource via localhost:22
+October 29 16:00:26 Could not connect to remote VIPAR database resource unimuen on port 23. dbi:mysql:unimuen:127.0.0.1:23, remoteselect, clepridros Error: Lost connection to MySQL server at 'reading initial communication packet', system error: 0
+October 29 16:02:30 Could not connect to remote VIPAR database resource lvdondz on port 22. dbi:mysql:lvdondz:127.0.0.1:22, remoteselect, clepridros Error: Lost connection to MySQL server at 'reading initial communication packet', system error: 0
+October 29 16:02:30 Could not connect to remote VIPAR database resource test on port 22. dbi:mysql:test:127.0.0.1:22, remoteselect, clepridros Error: Lost connection to MySQL server at 'reading initial communication packet', system error: 0
+October 29 16:05:23 Checking 1 sites configured in VIPAR database
+October 29 16:05:23 Process 2844:thread 10411 checking resource via localhost:23
+October 29 16:05:23 Process 2844:thread 10412 checking resource via localhost:22
+October 29 16:05:23 Process 2844:thread 10413 checking resource via localhost:22
+October 29 16:05:26 Could not connect to remote VIPAR database resource unimuen on port 23. dbi:mysql:unimuen:127.0.0.1:23, remoteselect, clepridros Error: Lost connection to MySQL server at 'reading initial communication packet', system error: 0
+October 29 16:07:31 Could not connect to remote VIPAR database resource lvdondz on port 22. dbi:mysql:lvdondz:127.0.0.1:22, remoteselect, clepridros Error: Lost connection to MySQL server at 'reading initial communication packet', system error: 0
+October 29 16:07:31 Could not connect to remote VIPAR database resource test on port 22. dbi:mysql:test:127.0.0.1:22, remoteselect, clepridros Error: Lost connection to MySQL server at 'reading initial communication packet', system error: 0
+October 29 16:10:23 Checking 1 sites configured in VIPAR database
+October 29 16:10:23 Process 2844:thread 10414 checking resource via localhost:23
+October 29 16:10:23 Process 2844:thread 10415 checking resource via localhost:22
+October 29 16:10:23 Process 2844:thread 10416 checking resource via localhost:22
+October 29 16:10:26 Could not connect to remote VIPAR database resource unimuen on port 23. dbi:mysql:unimuen:127.0.0.1:23, remoteselect, clepridros Error: Lost connection to MySQL server at 'reading initial communication packet', system error: 0
+October 29 16:12:30 Could not connect to remote VIPAR database resource lvdondz on port 22. dbi:mysql:lvdondz:127.0.0.1:22, remoteselect, clepridros Error: Lost connection to MySQL server at 'reading initial communication packet', system error: 0
+October 29 16:12:30 Could not connect to remote VIPAR database resource test on port 22. dbi:mysql:test:127.0.0.1:22, remoteselect, clepridros Error: Lost connection to MySQL server at 'reading initial communication packet', system error: 0
+October 29 16:15:23 Checking 1 sites configured in VIPAR database
+October 29 16:15:23 Process 2844:thread 10417 checking resource via localhost:23
+October 29 16:15:23 Process 2844:thread 10418 checking resource via localhost:22
+October 29 16:15:23 Process 2844:thread 10419 checking resource via localhost:22
+October 29 16:15:26 Could not connect to remote VIPAR database resource unimuen on port 23. dbi:mysql:unimuen:127.0.0.1:23, remoteselect, clepridros Error: Lost connection to MySQL server at 'reading initial communication packet', system error: 0
+October 29 16:17:31 Could not connect to remote VIPAR database resource test on port 22. dbi:mysql:test:127.0.0.1:22, remoteselect, clepridros Error: Lost connection to MySQL server at 'reading initial communication packet', system error: 0
+October 29 16:17:31 Could not connect to remote VIPAR database resource lvdondz on port 22. dbi:mysql:lvdondz:127.0.0.1:22, remoteselect, clepridros Error: Lost connection to MySQL server at 'reading initial communication packet', system error: 0
+October 29 16:20:23 Checking 1 sites configured in VIPAR database
+October 29 16:20:23 Process 2844:thread 10420 checking resource via localhost:23
+October 29 16:20:23 Process 2844:thread 10421 checking resource via localhost:22
+October 29 16:20:23 Process 2844:thread 10422 checking resource via localhost:22
+October 29 16:20:26 Could not connect to remote VIPAR database resource unimuen on port 23. dbi:mysql:unimuen:127.0.0.1:23, remoteselect, clepridros Error: Lost connection to MySQL server at 'reading initial communication packet', system error: 0
+October 29 16:22:30 Could not connect to remote VIPAR database resource test on port 22. dbi:mysql:test:127.0.0.1:22, remoteselect, clepridros Error: Lost connection to MySQL server at 'reading initial communication packet', system error: 0
+October 29 16:22:30 Could not connect to remote VIPAR database resource lvdondz on port 22. dbi:mysql:lvdondz:127.0.0.1:22, remoteselect, clepridros Error: Lost connection to MySQL server at 'reading initial communication packet', system error: 0
+October 29 16:25:23 Checking 1 sites configured in VIPAR database
+October 29 16:25:23 Process 2844:thread 10423 checking resource via localhost:23
+October 29 16:25:23 Process 2844:thread 10424 checking resource via localhost:22
+October 29 16:25:23 Process 2844:thread 10425 checking resource via localhost:22
+October 29 16:25:26 Could not connect to remote VIPAR database resource unimuen on port 23. dbi:mysql:unimuen:127.0.0.1:23, remoteselect, clepridros Error: Lost connection to MySQL server at 'reading initial communication packet', system error: 0
+October 29 16:27:31 Could not connect to remote VIPAR database resource lvdondz on port 22. dbi:mysql:lvdondz:127.0.0.1:22, remoteselect, clepridros Error: Lost connection to MySQL server at 'reading initial communication packet', system error: 0
+October 29 16:27:31 Could not connect to remote VIPAR database resource test on port 22. dbi:mysql:test:127.0.0.1:22, remoteselect, clepridros Error: Lost connection to MySQL server at 'reading initial communication packet', system error: 0
+October 29 16:30:23 Checking 1 sites configured in VIPAR database
+October 29 16:30:23 Process 2844:thread 10426 checking resource via localhost:23
+October 29 16:30:23 Process 2844:thread 10427 checking resource via localhost:22
+October 29 16:30:23 Process 2844:thread 10428 checking resource via localhost:22
+October 29 16:30:26 Could not connect to remote VIPAR database resource unimuen on port 23. dbi:mysql:unimuen:127.0.0.1:23, remoteselect, clepridros Error: Lost connection to MySQL server at 'reading initial communication packet', system error: 0
+October 29 16:32:30 Could not connect to remote VIPAR database resource lvdondz on port 22. dbi:mysql:lvdondz:127.0.0.1:22, remoteselect, clepridros Error: Lost connection to MySQL server at 'reading initial communication packet', system error: 0
+October 29 16:32:30 Could not connect to remote VIPAR database resource test on port 22. dbi:mysql:test:127.0.0.1:22, remoteselect, clepridros Error: Lost connection to MySQL server at 'reading initial communication packet', system error: 0
+October 29 16:35:23 Checking 1 sites configured in VIPAR database
+October 29 16:35:23 Process 2844:thread 10429 checking resource via localhost:23
+October 29 16:35:23 Process 2844:thread 10430 checking resource via localhost:22
+October 29 16:35:23 Process 2844:thread 10431 checking resource via localhost:22
+October 29 16:35:26 Could not connect to remote VIPAR database resource unimuen on port 23. dbi:mysql:unimuen:127.0.0.1:23, remoteselect, clepridros Error: Lost connection to MySQL server at 'reading initial communication packet', system error: 0
+October 29 16:37:31 Could not connect to remote VIPAR database resource lvdondz on port 22. dbi:mysql:lvdondz:127.0.0.1:22, remoteselect, clepridros Error: Lost connection to MySQL server at 'reading initial communication packet', system error: 0
+October 29 16:37:31 Could not connect to remote VIPAR database resource test on port 22. dbi:mysql:test:127.0.0.1:22, remoteselect, clepridros Error: Lost connection to MySQL server at 'reading initial communication packet', system error: 0
+October 29 16:40:23 Checking 1 sites configured in VIPAR database
+October 29 16:40:23 Process 2844:thread 10432 checking resource via localhost:23
+October 29 16:40:23 Process 2844:thread 10433 checking resource via localhost:22
+October 29 16:40:23 Process 2844:thread 10434 checking resource via localhost:22
+October 29 16:40:26 Could not connect to remote VIPAR database resource unimuen on port 23. dbi:mysql:unimuen:127.0.0.1:23, remoteselect, clepridros Error: Lost connection to MySQL server at 'reading initial communication packet', system error: 0
+October 29 16:42:30 Could not connect to remote VIPAR database resource lvdondz on port 22. dbi:mysql:lvdondz:127.0.0.1:22, remoteselect, clepridros Error: Lost connection to MySQL server at 'reading initial communication packet', system error: 0
+October 29 16:42:30 Could not connect to remote VIPAR database resource test on port 22. dbi:mysql:test:127.0.0.1:22, remoteselect, clepridros Error: Lost connection to MySQL server at 'reading initial communication packet', system error: 0
+October 29 16:45:23 Checking 1 sites configured in VIPAR database
+October 29 16:45:23 Process 2844:thread 10435 checking resource via localhost:23
+October 29 16:45:23 Process 2844:thread 10436 checking resource via localhost:22
+October 29 16:45:23 Process 2844:thread 10437 checking resource via localhost:22
+October 29 16:45:26 Could not connect to remote VIPAR database resource unimuen on port 23. dbi:mysql:unimuen:127.0.0.1:23, remoteselect, clepridros Error: Lost connection to MySQL server at 'reading initial communication packet', system error: 0
+October 29 16:47:31 Could not connect to remote VIPAR database resource lvdondz on port 22. dbi:mysql:lvdondz:127.0.0.1:22, remoteselect, clepridros Error: Lost connection to MySQL server at 'reading initial communication packet', system error: 0
+October 29 16:47:31 Could not connect to remote VIPAR database resource test on port 22. dbi:mysql:test:127.0.0.1:22, remoteselect, clepridros Error: Lost connection to MySQL server at 'reading initial communication packet', system error: 0
+October 29 16:50:23 Checking 1 sites configured in VIPAR database
+October 29 16:50:23 Process 2844:thread 10438 checking resource via localhost:23
+October 29 16:50:23 Process 2844:thread 10439 checking resource via localhost:22
+October 29 16:50:23 Process 2844:thread 10440 checking resource via localhost:22
+October 29 16:50:26 Could not connect to remote VIPAR database resource unimuen on port 23. dbi:mysql:unimuen:127.0.0.1:23, remoteselect, clepridros Error: Lost connection to MySQL server at 'reading initial communication packet', system error: 0
+October 29 16:52:30 Could not connect to remote VIPAR database resource lvdondz on port 22. dbi:mysql:lvdondz:127.0.0.1:22, remoteselect, clepridros Error: Lost connection to MySQL server at 'reading initial communication packet', system error: 0
+October 29 16:52:30 Could not connect to remote VIPAR database resource test on port 22. dbi:mysql:test:127.0.0.1:22, remoteselect, clepridros Error: Lost connection to MySQL server at 'reading initial communication packet', system error: 0
+October 29 16:55:23 Checking 1 sites configured in VIPAR database
+October 29 16:55:23 Process 2844:thread 10441 checking resource via localhost:23
+October 29 16:55:23 Process 2844:thread 10442 checking resource via localhost:22
+October 29 16:55:23 Process 2844:thread 10443 checking resource via localhost:22
+October 29 16:55:26 Could not connect to remote VIPAR database resource unimuen on port 23. dbi:mysql:unimuen:127.0.0.1:23, remoteselect, clepridros Error: Lost connection to MySQL server at 'reading initial communication packet', system error: 0
+October 29 16:57:31 Could not connect to remote VIPAR database resource lvdondz on port 22. dbi:mysql:lvdondz:127.0.0.1:22, remoteselect, clepridros Error: Lost connection to MySQL server at 'reading initial communication packet', system error: 0
+October 29 16:57:31 Could not connect to remote VIPAR database resource test on port 22. dbi:mysql:test:127.0.0.1:22, remoteselect, clepridros Error: Lost connection to MySQL server at 'reading initial communication packet', system error: 0
+October 29 17:00:23 Checking 1 sites configured in VIPAR database
+October 29 17:00:23 Process 2844:thread 10444 checking resource via localhost:23
+October 29 17:00:23 Process 2844:thread 10445 checking resource via localhost:22
+October 29 17:00:23 Process 2844:thread 10446 checking resource via localhost:22
+October 29 17:00:26 Could not connect to remote VIPAR database resource unimuen on port 23. dbi:mysql:unimuen:127.0.0.1:23, remoteselect, clepridros Error: Lost connection to MySQL server at 'reading initial communication packet', system error: 0
+October 29 17:02:30 Could not connect to remote VIPAR database resource test on port 22. dbi:mysql:test:127.0.0.1:22, remoteselect, clepridros Error: Lost connection to MySQL server at 'reading initial communication packet', system error: 0
+October 29 17:02:30 Could not connect to remote VIPAR database resource lvdondz on port 22. dbi:mysql:lvdondz:127.0.0.1:22, remoteselect, clepridros Error: Lost connection to MySQL server at 'reading initial communication packet', system error: 0
+October 29 17:05:23 Checking 1 sites configured in VIPAR database
+October 29 17:05:24 Process 2844:thread 10447 checking resource via localhost:23
+October 29 17:05:24 Process 2844:thread 10448 checking resource via localhost:22
+October 29 17:05:24 Process 2844:thread 10449 checking resource via localhost:22
+October 29 17:05:27 Could not connect to remote VIPAR database resource unimuen on port 23. dbi:mysql:unimuen:127.0.0.1:23, remoteselect, clepridros Error: Lost connection to MySQL server at 'reading initial communication packet', system error: 0
+October 29 17:07:31 Could not connect to remote VIPAR database resource lvdondz on port 22. dbi:mysql:lvdondz:127.0.0.1:22, remoteselect, clepridros Error: Lost connection to MySQL server at 'reading initial communication packet', system error: 0
+October 29 17:07:31 Could not connect to remote VIPAR database resource test on port 22. dbi:mysql:test:127.0.0.1:22, remoteselect, clepridros Error: Lost connection to MySQL server at 'reading initial communication packet', system error: 0
+October 29 17:10:23 Checking 1 sites configured in VIPAR database
+October 29 17:10:23 Process 2844:thread 10450 checking resource via localhost:23
+October 29 17:10:23 Process 2844:thread 10451 checking resource via localhost:22
+October 29 17:10:23 Process 2844:thread 10452 checking resource via localhost:22
+October 29 17:10:26 Could not connect to remote VIPAR database resource unimuen on port 23. dbi:mysql:unimuen:127.0.0.1:23, remoteselect, clepridros Error: Lost connection to MySQL server at 'reading initial communication packet', system error: 0
+October 29 17:12:30 Could not connect to remote VIPAR database resource lvdondz on port 22. dbi:mysql:lvdondz:127.0.0.1:22, remoteselect, clepridros Error: Lost connection to MySQL server at 'reading initial communication packet', system error: 0
+October 29 17:12:30 Could not connect to remote VIPAR database resource test on port 22. dbi:mysql:test:127.0.0.1:22, remoteselect, clepridros Error: Lost connection to MySQL server at 'reading initial communication packet', system error: 0
+October 29 17:15:23 Checking 1 sites configured in VIPAR database
+October 29 17:15:23 Process 2844:thread 10453 checking resource via localhost:23
+October 29 17:15:23 Process 2844:thread 10454 checking resource via localhost:22
+October 29 17:15:23 Process 2844:thread 10455 checking resource via localhost:22
+October 29 17:15:26 Could not connect to remote VIPAR database resource unimuen on port 23. dbi:mysql:unimuen:127.0.0.1:23, remoteselect, clepridros Error: Lost connection to MySQL server at 'reading initial communication packet', system error: 0
+October 29 17:17:30 Could not connect to remote VIPAR database resource lvdondz on port 22. dbi:mysql:lvdondz:127.0.0.1:22, remoteselect, clepridros Error: Lost connection to MySQL server at 'reading initial communication packet', system error: 0
+October 29 17:17:30 Could not connect to remote VIPAR database resource test on port 22. dbi:mysql:test:127.0.0.1:22, remoteselect, clepridros Error: Lost connection to MySQL server at 'reading initial communication packet', system error: 0
+October 29 17:20:23 Checking 1 sites configured in VIPAR database
+October 29 17:20:23 Process 2844:thread 10456 checking resource via localhost:23
+October 29 17:20:23 Process 2844:thread 10457 checking resource via localhost:22
+October 29 17:20:23 Process 2844:thread 10458 checking resource via localhost:22
+October 29 17:20:26 Could not connect to remote VIPAR database resource unimuen on port 23. dbi:mysql:unimuen:127.0.0.1:23, remoteselect, clepridros Error: Lost connection to MySQL server at 'reading initial communication packet', system error: 0
+October 29 17:22:30 Could not connect to remote VIPAR database resource lvdondz on port 22. dbi:mysql:lvdondz:127.0.0.1:22, remoteselect, clepridros Error: Lost connection to MySQL server at 'reading initial communication packet', system error: 0
+October 29 17:22:30 Could not connect to remote VIPAR database resource test on port 22. dbi:mysql:test:127.0.0.1:22, remoteselect, clepridros Error: Lost connection to MySQL server at 'reading initial communication packet', system error: 0
+October 29 17:25:23 Checking 1 sites configured in VIPAR database
+October 29 17:25:23 Process 2844:thread 10459 checking resource via localhost:23
+October 29 17:25:24 Process 2844:thread 10460 checking resource via localhost:22
+October 29 17:25:24 Process 2844:thread 10461 checking resource via localhost:22
+October 29 17:25:27 Could not connect to remote VIPAR database resource unimuen on port 23. dbi:mysql:unimuen:127.0.0.1:23, remoteselect, clepridros Error: Lost connection to MySQL server at 'reading initial communication packet', system error: 0
+October 29 17:27:31 Could not connect to remote VIPAR database resource lvdondz on port 22. dbi:mysql:lvdondz:127.0.0.1:22, remoteselect, clepridros Error: Lost connection to MySQL server at 'reading initial communication packet', system error: 0
+October 29 17:27:31 Could not connect to remote VIPAR database resource test on port 22. dbi:mysql:test:127.0.0.1:22, remoteselect, clepridros Error: Lost connection to MySQL server at 'reading initial communication packet', system error: 0
+October 29 17:30:23 Checking 1 sites configured in VIPAR database
+October 29 17:30:23 Process 2844:thread 10462 checking resource via localhost:23
+October 29 17:30:23 Process 2844:thread 10463 checking resource via localhost:22
+October 29 17:30:23 Process 2844:thread 10464 checking resource via localhost:22
+October 29 17:30:26 Could not connect to remote VIPAR database resource unimuen on port 23. dbi:mysql:unimuen:127.0.0.1:23, remoteselect, clepridros Error: Lost connection to MySQL server at 'reading initial communication packet', system error: 0
+October 29 17:32:30 Could not connect to remote VIPAR database resource lvdondz on port 22. dbi:mysql:lvdondz:127.0.0.1:22, remoteselect, clepridros Error: Lost connection to MySQL server at 'reading initial communication packet', system error: 0
+October 29 17:32:30 Could not connect to remote VIPAR database resource test on port 22. dbi:mysql:test:127.0.0.1:22, remoteselect, clepridros Error: Lost connection to MySQL server at 'reading initial communication packet', system error: 0
+October 29 17:35:23 Checking 1 sites configured in VIPAR database
+October 29 17:35:24 Process 2844:thread 10465 checking resource via localhost:23
+October 29 17:35:24 Process 2844:thread 10466 checking resource via localhost:22
+October 29 17:35:24 Process 2844:thread 10467 checking resource via localhost:22
+October 29 17:35:27 Could not connect to remote VIPAR database resource unimuen on port 23. dbi:mysql:unimuen:127.0.0.1:23, remoteselect, clepridros Error: Lost connection to MySQL server at 'reading initial communication packet', system error: 0
+October 29 17:37:31 Could not connect to remote VIPAR database resource lvdondz on port 22. dbi:mysql:lvdondz:127.0.0.1:22, remoteselect, clepridros Error: Lost connection to MySQL server at 'reading initial communication packet', system error: 0
+October 29 17:37:31 Could not connect to remote VIPAR database resource test on port 22. dbi:mysql:test:127.0.0.1:22, remoteselect, clepridros Error: Lost connection to MySQL server at 'reading initial communication packet', system error: 0
+October 29 17:40:23 Checking 1 sites configured in VIPAR database
+October 29 17:40:23 Process 2844:thread 10468 checking resource via localhost:23
+October 29 17:40:23 Process 2844:thread 10469 checking resource via localhost:22
+October 29 17:40:23 Process 2844:thread 10470 checking resource via localhost:22
+October 29 17:40:26 Could not connect to remote VIPAR database resource unimuen on port 23. dbi:mysql:unimuen:127.0.0.1:23, remoteselect, clepridros Error: Lost connection to MySQL server at 'reading initial communication packet', system error: 0
+October 29 17:42:30 Could not connect to remote VIPAR database resource test on port 22. dbi:mysql:test:127.0.0.1:22, remoteselect, clepridros Error: Lost connection to MySQL server at 'reading initial communication packet', system error: 0
+October 29 17:42:30 Could not connect to remote VIPAR database resource lvdondz on port 22. dbi:mysql:lvdondz:127.0.0.1:22, remoteselect, clepridros Error: Lost connection to MySQL server at 'reading initial communication packet', system error: 0
+October 29 17:45:23 Checking 1 sites configured in VIPAR database
+October 29 17:45:24 Process 2844:thread 10471 checking resource via localhost:23
+October 29 17:45:24 Process 2844:thread 10472 checking resource via localhost:22
+October 29 17:45:24 Process 2844:thread 10473 checking resource via localhost:22
+October 29 17:45:27 Could not connect to remote VIPAR database resource unimuen on port 23. dbi:mysql:unimuen:127.0.0.1:23, remoteselect, clepridros Error: Lost connection to MySQL server at 'reading initial communication packet', system error: 0
+October 29 17:47:31 Could not connect to remote VIPAR database resource lvdondz on port 22. dbi:mysql:lvdondz:127.0.0.1:22, remoteselect, clepridros Error: Lost connection to MySQL server at 'reading initial communication packet', system error: 0
+October 29 17:47:31 Could not connect to remote VIPAR database resource test on port 22. dbi:mysql:test:127.0.0.1:22, remoteselect, clepridros Error: Lost connection to MySQL server at 'reading initial communication packet', system error: 0
+October 29 17:50:23 Checking 1 sites configured in VIPAR database
+October 29 17:50:23 Process 2844:thread 10474 checking resource via localhost:23
+October 29 17:50:23 Process 2844:thread 10475 checking resource via localhost:22
+October 29 17:50:23 Process 2844:thread 10476 checking resource via localhost:22
+October 29 17:50:26 Could not connect to remote VIPAR database resource unimuen on port 23. dbi:mysql:unimuen:127.0.0.1:23, remoteselect, clepridros Error: Lost connection to MySQL server at 'reading initial communication packet', system error: 0
+October 29 17:52:30 Could not connect to remote VIPAR database resource test on port 22. dbi:mysql:test:127.0.0.1:22, remoteselect, clepridros Error: Lost connection to MySQL server at 'reading initial communication packet', system error: 0
+October 29 17:52:30 Could not connect to remote VIPAR database resource lvdondz on port 22. dbi:mysql:lvdondz:127.0.0.1:22, remoteselect, clepridros Error: Lost connection to MySQL server at 'reading initial communication packet', system error: 0
+October 29 17:55:23 Checking 1 sites configured in VIPAR database
+October 29 17:55:23 Process 2844:thread 10477 checking resource via localhost:23
+October 29 17:55:23 Process 2844:thread 10478 checking resource via localhost:22
+October 29 17:55:23 Process 2844:thread 10479 checking resource via localhost:22
+October 29 17:55:26 Could not connect to remote VIPAR database resource unimuen on port 23. dbi:mysql:unimuen:127.0.0.1:23, remoteselect, clepridros Error: Lost connection to MySQL server at 'reading initial communication packet', system error: 0
+October 29 17:57:30 Could not connect to remote VIPAR database resource lvdondz on port 22. dbi:mysql:lvdondz:127.0.0.1:22, remoteselect, clepridros Error: Lost connection to MySQL server at 'reading initial communication packet', system error: 0
+October 29 17:57:30 Could not connect to remote VIPAR database resource test on port 22. dbi:mysql:test:127.0.0.1:22, remoteselect, clepridros Error: Lost connection to MySQL server at 'reading initial communication packet', system error: 0
+October 29 18:00:23 Checking 1 sites configured in VIPAR database
+October 29 18:00:23 Process 2844:thread 10480 checking resource via localhost:23
+October 29 18:00:23 Process 2844:thread 10481 checking resource via localhost:22
+October 29 18:00:23 Process 2844:thread 10482 checking resource via localhost:22
+October 29 18:00:26 Could not connect to remote VIPAR database resource unimuen on port 23. dbi:mysql:unimuen:127.0.0.1:23, remoteselect, clepridros Error: Lost connection to MySQL server at 'reading initial communication packet', system error: 0
+October 29 18:02:30 Could not connect to remote VIPAR database resource test on port 22. dbi:mysql:test:127.0.0.1:22, remoteselect, clepridros Error: Lost connection to MySQL server at 'reading initial communication packet', system error: 0
+October 29 18:02:30 Could not connect to remote VIPAR database resource lvdondz on port 22. dbi:mysql:lvdondz:127.0.0.1:22, remoteselect, clepridros Error: Lost connection to MySQL server at 'reading initial communication packet', system error: 0
+October 29 18:05:23 Checking 1 sites configured in VIPAR database
+October 29 18:05:23 Process 2844:thread 10483 checking resource via localhost:23
+October 29 18:05:23 Process 2844:thread 10484 checking resource via localhost:22
+October 29 18:05:23 Process 2844:thread 10485 checking resource via localhost:22
+October 29 18:05:26 Could not connect to remote VIPAR database resource unimuen on port 23. dbi:mysql:unimuen:127.0.0.1:23, remoteselect, clepridros Error: Lost connection to MySQL server at 'reading initial communication packet', system error: 0
+October 29 18:07:30 Could not connect to remote VIPAR database resource lvdondz on port 22. dbi:mysql:lvdondz:127.0.0.1:22, remoteselect, clepridros Error: Lost connection to MySQL server at 'reading initial communication packet', system error: 0
+October 29 18:07:30 Could not connect to remote VIPAR database resource test on port 22. dbi:mysql:test:127.0.0.1:22, remoteselect, clepridros Error: Lost connection to MySQL server at 'reading initial communication packet', system error: 0
+October 29 18:10:23 Checking 1 sites configured in VIPAR database
+October 29 18:10:23 Process 2844:thread 10486 checking resource via localhost:23
+October 29 18:10:23 Process 2844:thread 10487 checking resource via localhost:22
+October 29 18:10:23 Process 2844:thread 10488 checking resource via localhost:22
+October 29 18:10:26 Could not connect to remote VIPAR database resource unimuen on port 23. dbi:mysql:unimuen:127.0.0.1:23, remoteselect, clepridros Error: Lost connection to MySQL server at 'reading initial communication packet', system error: 0
+October 29 18:12:30 Could not connect to remote VIPAR database resource lvdondz on port 22. dbi:mysql:lvdondz:127.0.0.1:22, remoteselect, clepridros Error: Lost connection to MySQL server at 'reading initial communication packet', system error: 0
+October 29 18:12:31 Could not connect to remote VIPAR database resource test on port 22. dbi:mysql:test:127.0.0.1:22, remoteselect, clepridros Error: Lost connection to MySQL server at 'reading initial communication packet', system error: 0
+October 29 18:15:23 Checking 1 sites configured in VIPAR database
+October 29 18:15:23 Process 2844:thread 10489 checking resource via localhost:23
+October 29 18:15:23 Process 2844:thread 10490 checking resource via localhost:22
+October 29 18:15:23 Process 2844:thread 10491 checking resource via localhost:22
+October 29 18:15:26 Could not connect to remote VIPAR database resource unimuen on port 23. dbi:mysql:unimuen:127.0.0.1:23, remoteselect, clepridros Error: Lost connection to MySQL server at 'reading initial communication packet', system error: 0
+October 29 18:17:30 Could not connect to remote VIPAR database resource lvdondz on port 22. dbi:mysql:lvdondz:127.0.0.1:22, remoteselect, clepridros Error: Lost connection to MySQL server at 'reading initial communication packet', system error: 0
+October 29 18:17:30 Could not connect to remote VIPAR database resource test on port 22. dbi:mysql:test:127.0.0.1:22, remoteselect, clepridros Error: Lost connection to MySQL server at 'reading initial communication packet', system error: 0
+October 29 18:20:23 Checking 1 sites configured in VIPAR database
+October 29 18:20:23 Process 2844:thread 10492 checking resource via localhost:23
+October 29 18:20:23 Process 2844:thread 10493 checking resource via localhost:22
+October 29 18:20:23 Process 2844:thread 10494 checking resource via localhost:22
+October 29 18:20:26 Could not connect to remote VIPAR database resource unimuen on port 23. dbi:mysql:unimuen:127.0.0.1:23, remoteselect, clepridros Error: Lost connection to MySQL server at 'reading initial communication packet', system error: 0
+October 29 18:22:30 Could not connect to remote VIPAR database resource test on port 22. dbi:mysql:test:127.0.0.1:22, remoteselect, clepridros Error: Lost connection to MySQL server at 'reading initial communication packet', system error: 0
+October 29 18:22:30 Could not connect to remote VIPAR database resource lvdondz on port 22. dbi:mysql:lvdondz:127.0.0.1:22, remoteselect, clepridros Error: Lost connection to MySQL server at 'reading initial communication packet', system error: 0
+October 29 18:25:23 Checking 1 sites configured in VIPAR database
+October 29 18:25:24 Process 2844:thread 10495 checking resource via localhost:23
+October 29 18:25:24 Process 2844:thread 10496 checking resource via localhost:22
+October 29 18:25:24 Process 2844:thread 10497 checking resource via localhost:22
+October 29 18:25:27 Could not connect to remote VIPAR database resource unimuen on port 23. dbi:mysql:unimuen:127.0.0.1:23, remoteselect, clepridros Error: Lost connection to MySQL server at 'reading initial communication packet', system error: 0
+October 29 18:27:31 Could not connect to remote VIPAR database resource lvdondz on port 22. dbi:mysql:lvdondz:127.0.0.1:22, remoteselect, clepridros Error: Lost connection to MySQL server at 'reading initial communication packet', system error: 0
+October 29 18:27:31 Could not connect to remote VIPAR database resource test on port 22. dbi:mysql:test:127.0.0.1:22, remoteselect, clepridros Error: Lost connection to MySQL server at 'reading initial communication packet', system error: 0
+October 29 18:30:23 Checking 1 sites configured in VIPAR database
+October 29 18:30:23 Process 2844:thread 10498 checking resource via localhost:23
+October 29 18:30:23 Process 2844:thread 10499 checking resource via localhost:22
+October 29 18:30:23 Process 2844:thread 10500 checking resource via localhost:22
+October 29 18:30:26 Could not connect to remote VIPAR database resource unimuen on port 23. dbi:mysql:unimuen:127.0.0.1:23, remoteselect, clepridros Error: Lost connection to MySQL server at 'reading initial communication packet', system error: 0
+October 29 18:32:30 Could not connect to remote VIPAR database resource lvdondz on port 22. dbi:mysql:lvdondz:127.0.0.1:22, remoteselect, clepridros Error: Lost connection to MySQL server at 'reading initial communication packet', system error: 0
+October 29 18:32:31 Could not connect to remote VIPAR database resource test on port 22. dbi:mysql:test:127.0.0.1:22, remoteselect, clepridros Error: Lost connection to MySQL server at 'reading initial communication packet', system error: 0
+October 29 18:35:23 Checking 1 sites configured in VIPAR database
+October 29 18:35:23 Process 2844:thread 10501 checking resource via localhost:23
+October 29 18:35:23 Process 2844:thread 10502 checking resource via localhost:22
+October 29 18:35:23 Process 2844:thread 10503 checking resource via localhost:22
+October 29 18:35:26 Could not connect to remote VIPAR database resource unimuen on port 23. dbi:mysql:unimuen:127.0.0.1:23, remoteselect, clepridros Error: Lost connection to MySQL server at 'reading initial communication packet', system error: 0
+October 29 18:37:30 Could not connect to remote VIPAR database resource lvdondz on port 22. dbi:mysql:lvdondz:127.0.0.1:22, remoteselect, clepridros Error: Lost connection to MySQL server at 'reading initial communication packet', system error: 0
+October 29 18:37:30 Could not connect to remote VIPAR database resource test on port 22. dbi:mysql:test:127.0.0.1:22, remoteselect, clepridros Error: Lost connection to MySQL server at 'reading initial communication packet', system error: 0
+October 29 18:40:23 Checking 1 sites configured in VIPAR database
+October 29 18:40:23 Process 2844:thread 10504 checking resource via localhost:23
+October 29 18:40:23 Process 2844:thread 10505 checking resource via localhost:22
+October 29 18:40:23 Process 2844:thread 10506 checking resource via localhost:22
+October 29 18:40:26 Could not connect to remote VIPAR database resource unimuen on port 23. dbi:mysql:unimuen:127.0.0.1:23, remoteselect, clepridros Error: Lost connection to MySQL server at 'reading initial communication packet', system error: 0
+October 29 18:42:30 Could not connect to remote VIPAR database resource test on port 22. dbi:mysql:test:127.0.0.1:22, remoteselect, clepridros Error: Lost connection to MySQL server at 'reading initial communication packet', system error: 0
+October 29 18:42:30 Could not connect to remote VIPAR database resource lvdondz on port 22. dbi:mysql:lvdondz:127.0.0.1:22, remoteselect, clepridros Error: Lost connection to MySQL server at 'reading initial communication packet', system error: 0
+October 29 18:45:23 Checking 1 sites configured in VIPAR database
+October 29 18:45:23 Process 2844:thread 10507 checking resource via localhost:23
+October 29 18:45:23 Process 2844:thread 10508 checking resource via localhost:22
+October 29 18:45:23 Process 2844:thread 10509 checking resource via localhost:22
+October 29 18:45:26 Could not connect to remote VIPAR database resource unimuen on port 23. dbi:mysql:unimuen:127.0.0.1:23, remoteselect, clepridros Error: Lost connection to MySQL server at 'reading initial communication packet', system error: 0
+October 29 18:47:30 Could not connect to remote VIPAR database resource test on port 22. dbi:mysql:test:127.0.0.1:22, remoteselect, clepridros Error: Lost connection to MySQL server at 'reading initial communication packet', system error: 0
+October 29 18:47:30 Could not connect to remote VIPAR database resource lvdondz on port 22. dbi:mysql:lvdondz:127.0.0.1:22, remoteselect, clepridros Error: Lost connection to MySQL server at 'reading initial communication packet', system error: 0
+October 29 18:50:23 Checking 1 sites configured in VIPAR database
+October 29 18:50:23 Process 2844:thread 10510 checking resource via localhost:23
+October 29 18:50:23 Process 2844:thread 10511 checking resource via localhost:22
+October 29 18:50:23 Process 2844:thread 10512 checking resource via localhost:22
+October 29 18:50:26 Could not connect to remote VIPAR database resource unimuen on port 23. dbi:mysql:unimuen:127.0.0.1:23, remoteselect, clepridros Error: Lost connection to MySQL server at 'reading initial communication packet', system error: 0
+October 29 18:52:31 Could not connect to remote VIPAR database resource lvdondz on port 22. dbi:mysql:lvdondz:127.0.0.1:22, remoteselect, clepridros Error: Lost connection to MySQL server at 'reading initial communication packet', system error: 0
+October 29 18:52:31 Could not connect to remote VIPAR database resource test on port 22. dbi:mysql:test:127.0.0.1:22, remoteselect, clepridros Error: Lost connection to MySQL server at 'reading initial communication packet', system error: 0
+October 29 18:55:23 Checking 1 sites configured in VIPAR database
+October 29 18:55:23 Process 2844:thread 10513 checking resource via localhost:23
+October 29 18:55:23 Process 2844:thread 10514 checking resource via localhost:22
+October 29 18:55:23 Process 2844:thread 10515 checking resource via localhost:22
+October 29 18:55:26 Could not connect to remote VIPAR database resource unimuen on port 23. dbi:mysql:unimuen:127.0.0.1:23, remoteselect, clepridros Error: Lost connection to MySQL server at 'reading initial communication packet', system error: 0
+October 29 18:57:30 Could not connect to remote VIPAR database resource lvdondz on port 22. dbi:mysql:lvdondz:127.0.0.1:22, remoteselect, clepridros Error: Lost connection to MySQL server at 'reading initial communication packet', system error: 0
+October 29 18:57:30 Could not connect to remote VIPAR database resource test on port 22. dbi:mysql:test:127.0.0.1:22, remoteselect, clepridros Error: Lost connection to MySQL server at 'reading initial communication packet', system error: 0
+October 29 19:00:23 Checking 1 sites configured in VIPAR database
+October 29 19:00:23 Process 2844:thread 10516 checking resource via localhost:23
+October 29 19:00:23 Process 2844:thread 10517 checking resource via localhost:22
+October 29 19:00:23 Process 2844:thread 10518 checking resource via localhost:22
+October 29 19:00:26 Could not connect to remote VIPAR database resource unimuen on port 23. dbi:mysql:unimuen:127.0.0.1:23, remoteselect, clepridros Error: Lost connection to MySQL server at 'reading initial communication packet', system error: 0
+October 29 19:02:31 Could not connect to remote VIPAR database resource lvdondz on port 22. dbi:mysql:lvdondz:127.0.0.1:22, remoteselect, clepridros Error: Lost connection to MySQL server at 'reading initial communication packet', system error: 0
+October 29 19:02:31 Could not connect to remote VIPAR database resource test on port 22. dbi:mysql:test:127.0.0.1:22, remoteselect, clepridros Error: Lost connection to MySQL server at 'reading initial communication packet', system error: 0
+October 29 19:05:23 Checking 1 sites configured in VIPAR database
+October 29 19:05:23 Process 2844:thread 10519 checking resource via localhost:23
+October 29 19:05:23 Process 2844:thread 10520 checking resource via localhost:22
+October 29 19:05:23 Process 2844:thread 10521 checking resource via localhost:22
+October 29 19:05:26 Could not connect to remote VIPAR database resource unimuen on port 23. dbi:mysql:unimuen:127.0.0.1:23, remoteselect, clepridros Error: Lost connection to MySQL server at 'reading initial communication packet', system error: 0
+October 29 19:07:30 Could not connect to remote VIPAR database resource lvdondz on port 22. dbi:mysql:lvdondz:127.0.0.1:22, remoteselect, clepridros Error: Lost connection to MySQL server at 'reading initial communication packet', system error: 0
+October 29 19:07:30 Could not connect to remote VIPAR database resource test on port 22. dbi:mysql:test:127.0.0.1:22, remoteselect, clepridros Error: Lost connection to MySQL server at 'reading initial communication packet', system error: 0
+October 29 19:10:23 Checking 1 sites configured in VIPAR database
+October 29 19:10:23 Process 2844:thread 10522 checking resource via localhost:23
+October 29 19:10:23 Process 2844:thread 10523 checking resource via localhost:22
+October 29 19:10:24 Process 2844:thread 10524 checking resource via localhost:22
+October 29 19:10:26 Could not connect to remote VIPAR database resource unimuen on port 23. dbi:mysql:unimuen:127.0.0.1:23, remoteselect, clepridros Error: Lost connection to MySQL server at 'reading initial communication packet', system error: 0
+October 29 19:12:31 Could not connect to remote VIPAR database resource lvdondz on port 22. dbi:mysql:lvdondz:127.0.0.1:22, remoteselect, clepridros Error: Lost connection to MySQL server at 'reading initial communication packet', system error: 0
+October 29 19:12:31 Could not connect to remote VIPAR database resource test on port 22. dbi:mysql:test:127.0.0.1:22, remoteselect, clepridros Error: Lost connection to MySQL server at 'reading initial communication packet', system error: 0
+October 29 19:15:23 Checking 1 sites configured in VIPAR database
+October 29 19:15:23 Process 2844:thread 10525 checking resource via localhost:23
+October 29 19:15:23 Process 2844:thread 10526 checking resource via localhost:22
+October 29 19:15:23 Process 2844:thread 10527 checking resource via localhost:22
+October 29 19:15:26 Could not connect to remote VIPAR database resource unimuen on port 23. dbi:mysql:unimuen:127.0.0.1:23, remoteselect, clepridros Error: Lost connection to MySQL server at 'reading initial communication packet', system error: 0
+October 29 19:17:30 Could not connect to remote VIPAR database resource lvdondz on port 22. dbi:mysql:lvdondz:127.0.0.1:22, remoteselect, clepridros Error: Lost connection to MySQL server at 'reading initial communication packet', system error: 0
+October 29 19:17:30 Could not connect to remote VIPAR database resource test on port 22. dbi:mysql:test:127.0.0.1:22, remoteselect, clepridros Error: Lost connection to MySQL server at 'reading initial communication packet', system error: 0
+October 29 19:20:23 Checking 1 sites configured in VIPAR database
+October 29 19:20:23 Process 2844:thread 10528 checking resource via localhost:23
+October 29 19:20:23 Process 2844:thread 10529 checking resource via localhost:22
+October 29 19:20:23 Process 2844:thread 10530 checking resource via localhost:22
+October 29 19:20:26 Could not connect to remote VIPAR database resource unimuen on port 23. dbi:mysql:unimuen:127.0.0.1:23, remoteselect, clepridros Error: Lost connection to MySQL server at 'reading initial communication packet', system error: 0
+October 29 19:22:30 Could not connect to remote VIPAR database resource lvdondz on port 22. dbi:mysql:lvdondz:127.0.0.1:22, remoteselect, clepridros Error: Lost connection to MySQL server at 'reading initial communication packet', system error: 0
+October 29 19:22:30 Could not connect to remote VIPAR database resource test on port 22. dbi:mysql:test:127.0.0.1:22, remoteselect, clepridros Error: Lost connection to MySQL server at 'reading initial communication packet', system error: 0
+October 29 19:25:23 Checking 1 sites configured in VIPAR database
+October 29 19:25:23 Process 2844:thread 10531 checking resource via localhost:23
+October 29 19:25:23 Process 2844:thread 10532 checking resource via localhost:22
+October 29 19:25:23 Process 2844:thread 10533 checking resource via localhost:22
+October 29 19:25:26 Could not connect to remote VIPAR database resource unimuen on port 23. dbi:mysql:unimuen:127.0.0.1:23, remoteselect, clepridros Error: Lost connection to MySQL server at 'reading initial communication packet', system error: 0
+October 29 19:27:30 Could not connect to remote VIPAR database resource lvdondz on port 22. dbi:mysql:lvdondz:127.0.0.1:22, remoteselect, clepridros Error: Lost connection to MySQL server at 'reading initial communication packet', system error: 0
+October 29 19:27:31 Could not connect to remote VIPAR database resource test on port 22. dbi:mysql:test:127.0.0.1:22, remoteselect, clepridros Error: Lost connection to MySQL server at 'reading initial communication packet', system error: 0
+October 29 19:30:23 Checking 1 sites configured in VIPAR database
+October 29 19:30:24 Process 2844:thread 10534 checking resource via localhost:23
+October 29 19:30:24 Process 2844:thread 10535 checking resource via localhost:22
+October 29 19:30:24 Process 2844:thread 10536 checking resource via localhost:22
+October 29 19:30:27 Could not connect to remote VIPAR database resource unimuen on port 23. dbi:mysql:unimuen:127.0.0.1:23, remoteselect, clepridros Error: Lost connection to MySQL server at 'reading initial communication packet', system error: 0
+October 29 19:32:31 Could not connect to remote VIPAR database resource lvdondz on port 22. dbi:mysql:lvdondz:127.0.0.1:22, remoteselect, clepridros Error: Lost connection to MySQL server at 'reading initial communication packet', system error: 0
+October 29 19:32:31 Could not connect to remote VIPAR database resource test on port 22. dbi:mysql:test:127.0.0.1:22, remoteselect, clepridros Error: Lost connection to MySQL server at 'reading initial communication packet', system error: 0
+October 29 19:35:23 Checking 1 sites configured in VIPAR database
+October 29 19:35:23 Process 2844:thread 10537 checking resource via localhost:23
+October 29 19:35:23 Process 2844:thread 10538 checking resource via localhost:22
+October 29 19:35:23 Process 2844:thread 10539 checking resource via localhost:22
+October 29 19:35:26 Could not connect to remote VIPAR database resource unimuen on port 23. dbi:mysql:unimuen:127.0.0.1:23, remoteselect, clepridros Error: Lost connection to MySQL server at 'reading initial communication packet', system error: 0
+October 29 19:37:30 Could not connect to remote VIPAR database resource lvdondz on port 22. dbi:mysql:lvdondz:127.0.0.1:22, remoteselect, clepridros Error: Lost connection to MySQL server at 'reading initial communication packet', system error: 0
+October 29 19:37:30 Could not connect to remote VIPAR database resource test on port 22. dbi:mysql:test:127.0.0.1:22, remoteselect, clepridros Error: Lost connection to MySQL server at 'reading initial communication packet', system error: 0
+October 29 19:40:23 Checking 1 sites configured in VIPAR database
+October 29 19:40:23 Process 2844:thread 10540 checking resource via localhost:23
+October 29 19:40:23 Process 2844:thread 10541 checking resource via localhost:22
+October 29 19:40:23 Process 2844:thread 10542 checking resource via localhost:22
+October 29 19:40:26 Could not connect to remote VIPAR database resource unimuen on port 23. dbi:mysql:unimuen:127.0.0.1:23, remoteselect, clepridros Error: Lost connection to MySQL server at 'reading initial communication packet', system error: 0
+October 29 19:42:30 Could not connect to remote VIPAR database resource lvdondz on port 22. dbi:mysql:lvdondz:127.0.0.1:22, remoteselect, clepridros Error: Lost connection to MySQL server at 'reading initial communication packet', system error: 0
+October 29 19:42:30 Could not connect to remote VIPAR database resource test on port 22. dbi:mysql:test:127.0.0.1:22, remoteselect, clepridros Error: Lost connection to MySQL server at 'reading initial communication packet', system error: 0
+October 29 19:45:23 Checking 1 sites configured in VIPAR database
+October 29 19:45:23 Process 2844:thread 10543 checking resource via localhost:23
+October 29 19:45:23 Process 2844:thread 10544 checking resource via localhost:22
+October 29 19:45:23 Process 2844:thread 10545 checking resource via localhost:22
+October 29 19:45:26 Could not connect to remote VIPAR database resource unimuen on port 23. dbi:mysql:unimuen:127.0.0.1:23, remoteselect, clepridros Error: Lost connection to MySQL server at 'reading initial communication packet', system error: 0
+October 29 19:47:30 Could not connect to remote VIPAR database resource lvdondz on port 22. dbi:mysql:lvdondz:127.0.0.1:22, remoteselect, clepridros Error: Lost connection to MySQL server at 'reading initial communication packet', system error: 0
+October 29 19:47:30 Could not connect to remote VIPAR database resource test on port 22. dbi:mysql:test:127.0.0.1:22, remoteselect, clepridros Error: Lost connection to MySQL server at 'reading initial communication packet', system error: 0
+October 29 19:50:23 Checking 1 sites configured in VIPAR database
+October 29 19:50:23 Process 2844:thread 10546 checking resource via localhost:23
+October 29 19:50:23 Process 2844:thread 10547 checking resource via localhost:22
+October 29 19:50:23 Process 2844:thread 10548 checking resource via localhost:22
+October 29 19:50:26 Could not connect to remote VIPAR database resource unimuen on port 23. dbi:mysql:unimuen:127.0.0.1:23, remoteselect, clepridros Error: Lost connection to MySQL server at 'reading initial communication packet', system error: 0
+October 29 19:52:30 Could not connect to remote VIPAR database resource lvdondz on port 22. dbi:mysql:lvdondz:127.0.0.1:22, remoteselect, clepridros Error: Lost connection to MySQL server at 'reading initial communication packet', system error: 0
+October 29 19:52:30 Could not connect to remote VIPAR database resource test on port 22. dbi:mysql:test:127.0.0.1:22, remoteselect, clepridros Error: Lost connection to MySQL server at 'reading initial communication packet', system error: 0
+October 29 19:55:23 Checking 1 sites configured in VIPAR database
+October 29 19:55:23 Process 2844:thread 10549 checking resource via localhost:23
+October 29 19:55:23 Process 2844:thread 10550 checking resource via localhost:22
+October 29 19:55:23 Process 2844:thread 10551 checking resource via localhost:22
+October 29 19:55:26 Could not connect to remote VIPAR database resource unimuen on port 23. dbi:mysql:unimuen:127.0.0.1:23, remoteselect, clepridros Error: Lost connection to MySQL server at 'reading initial communication packet', system error: 0
+October 29 19:57:30 Could not connect to remote VIPAR database resource lvdondz on port 22. dbi:mysql:lvdondz:127.0.0.1:22, remoteselect, clepridros Error: Lost connection to MySQL server at 'reading initial communication packet', system error: 0
+October 29 19:57:30 Could not connect to remote VIPAR database resource test on port 22. dbi:mysql:test:127.0.0.1:22, remoteselect, clepridros Error: Lost connection to MySQL server at 'reading initial communication packet', system error: 0
+October 29 20:00:23 Checking 1 sites configured in VIPAR database
+October 29 20:00:24 Process 2844:thread 10552 checking resource via localhost:23
+October 29 20:00:24 Process 2844:thread 10553 checking resource via localhost:22
+October 29 20:00:24 Process 2844:thread 10554 checking resource via localhost:22
+October 29 20:00:27 Could not connect to remote VIPAR database resource unimuen on port 23. dbi:mysql:unimuen:127.0.0.1:23, remoteselect, clepridros Error: Lost connection to MySQL server at 'reading initial communication packet', system error: 0
+October 29 20:02:31 Could not connect to remote VIPAR database resource lvdondz on port 22. dbi:mysql:lvdondz:127.0.0.1:22, remoteselect, clepridros Error: Lost connection to MySQL server at 'reading initial communication packet', system error: 0
+October 29 20:02:31 Could not connect to remote VIPAR database resource test on port 22. dbi:mysql:test:127.0.0.1:22, remoteselect, clepridros Error: Lost connection to MySQL server at 'reading initial communication packet', system error: 0
+October 29 20:05:23 Checking 1 sites configured in VIPAR database
+October 29 20:05:23 Process 2844:thread 10555 checking resource via localhost:23
+October 29 20:05:23 Process 2844:thread 10556 checking resource via localhost:22
+October 29 20:05:23 Process 2844:thread 10557 checking resource via localhost:22
+October 29 20:05:26 Could not connect to remote VIPAR database resource unimuen on port 23. dbi:mysql:unimuen:127.0.0.1:23, remoteselect, clepridros Error: Lost connection to MySQL server at 'reading initial communication packet', system error: 0
+October 29 20:07:31 Could not connect to remote VIPAR database resource lvdondz on port 22. dbi:mysql:lvdondz:127.0.0.1:22, remoteselect, clepridros Error: Lost connection to MySQL server at 'reading initial communication packet', system error: 0
+October 29 20:07:31 Could not connect to remote VIPAR database resource test on port 22. dbi:mysql:test:127.0.0.1:22, remoteselect, clepridros Error: Lost connection to MySQL server at 'reading initial communication packet', system error: 0
+October 29 20:10:23 Checking 1 sites configured in VIPAR database
+October 29 20:10:23 Process 2844:thread 10558 checking resource via localhost:23
+October 29 20:10:23 Process 2844:thread 10559 checking resource via localhost:22
+October 29 20:10:23 Process 2844:thread 10560 checking resource via localhost:22
+October 29 20:10:26 Could not connect to remote VIPAR database resource unimuen on port 23. dbi:mysql:unimuen:127.0.0.1:23, remoteselect, clepridros Error: Lost connection to MySQL server at 'reading initial communication packet', system error: 0
+October 29 20:12:30 Could not connect to remote VIPAR database resource test on port 22. dbi:mysql:test:127.0.0.1:22, remoteselect, clepridros Error: Lost connection to MySQL server at 'reading initial communication packet', system error: 0
+October 29 20:12:30 Could not connect to remote VIPAR database resource lvdondz on port 22. dbi:mysql:lvdondz:127.0.0.1:22, remoteselect, clepridros Error: Lost connection to MySQL server at 'reading initial communication packet', system error: 0
+October 29 20:15:23 Checking 1 sites configured in VIPAR database
+October 29 20:15:23 Process 2844:thread 10561 checking resource via localhost:23
+October 29 20:15:23 Process 2844:thread 10562 checking resource via localhost:22
+October 29 20:15:23 Process 2844:thread 10563 checking resource via localhost:22
+October 29 20:15:26 Could not connect to remote VIPAR database resource unimuen on port 23. dbi:mysql:unimuen:127.0.0.1:23, remoteselect, clepridros Error: Lost connection to MySQL server at 'reading initial communication packet', system error: 0
+October 29 20:17:30 Could not connect to remote VIPAR database resource lvdondz on port 22. dbi:mysql:lvdondz:127.0.0.1:22, remoteselect, clepridros Error: Lost connection to MySQL server at 'reading initial communication packet', system error: 0
+October 29 20:17:30 Could not connect to remote VIPAR database resource test on port 22. dbi:mysql:test:127.0.0.1:22, remoteselect, clepridros Error: Lost connection to MySQL server at 'reading initial communication packet', system error: 0
+October 29 20:20:23 Checking 1 sites configured in VIPAR database
+October 29 20:20:23 Process 2844:thread 10564 checking resource via localhost:23
+October 29 20:20:23 Process 2844:thread 10565 checking resource via localhost:22
+October 29 20:20:23 Process 2844:thread 10566 checking resource via localhost:22
+October 29 20:20:26 Could not connect to remote VIPAR database resource unimuen on port 23. dbi:mysql:unimuen:127.0.0.1:23, remoteselect, clepridros Error: Lost connection to MySQL server at 'reading initial communication packet', system error: 0
+October 29 20:22:30 Could not connect to remote VIPAR database resource lvdondz on port 22. dbi:mysql:lvdondz:127.0.0.1:22, remoteselect, clepridros Error: Lost connection to MySQL server at 'reading initial communication packet', system error: 0
+October 29 20:22:30 Could not connect to remote VIPAR database resource test on port 22. dbi:mysql:test:127.0.0.1:22, remoteselect, clepridros Error: Lost connection to MySQL server at 'reading initial communication packet', system error: 0
+October 29 20:25:23 Checking 1 sites configured in VIPAR database
+October 29 20:25:23 Process 2844:thread 10567 checking resource via localhost:23
+October 29 20:25:23 Process 2844:thread 10568 checking resource via localhost:22
+October 29 20:25:23 Process 2844:thread 10569 checking resource via localhost:22
+October 29 20:25:26 Could not connect to remote VIPAR database resource unimuen on port 23. dbi:mysql:unimuen:127.0.0.1:23, remoteselect, clepridros Error: Lost connection to MySQL server at 'reading initial communication packet', system error: 0
+October 29 20:27:30 Could not connect to remote VIPAR database resource lvdondz on port 22. dbi:mysql:lvdondz:127.0.0.1:22, remoteselect, clepridros Error: Lost connection to MySQL server at 'reading initial communication packet', system error: 0
+October 29 20:27:30 Could not connect to remote VIPAR database resource test on port 22. dbi:mysql:test:127.0.0.1:22, remoteselect, clepridros Error: Lost connection to MySQL server at 'reading initial communication packet', system error: 0
+October 29 20:30:23 Checking 1 sites configured in VIPAR database
+October 29 20:30:24 Process 2844:thread 10570 checking resource via localhost:23
+October 29 20:30:24 Process 2844:thread 10571 checking resource via localhost:22
+October 29 20:30:24 Process 2844:thread 10572 checking resource via localhost:22
+October 29 20:30:27 Could not connect to remote VIPAR database resource unimuen on port 23. dbi:mysql:unimuen:127.0.0.1:23, remoteselect, clepridros Error: Lost connection to MySQL server at 'reading initial communication packet', system error: 0
+October 29 20:32:31 Could not connect to remote VIPAR database resource lvdondz on port 22. dbi:mysql:lvdondz:127.0.0.1:22, remoteselect, clepridros Error: Lost connection to MySQL server at 'reading initial communication packet', system error: 0
+October 29 20:32:31 Could not connect to remote VIPAR database resource test on port 22. dbi:mysql:test:127.0.0.1:22, remoteselect, clepridros Error: Lost connection to MySQL server at 'reading initial communication packet', system error: 0
+October 29 20:35:23 Checking 1 sites configured in VIPAR database
+October 29 20:35:23 Process 2844:thread 10573 checking resource via localhost:23
+October 29 20:35:23 Process 2844:thread 10574 checking resource via localhost:22
+October 29 20:35:23 Process 2844:thread 10575 checking resource via localhost:22
+October 29 20:35:26 Could not connect to remote VIPAR database resource unimuen on port 23. dbi:mysql:unimuen:127.0.0.1:23, remoteselect, clepridros Error: Lost connection to MySQL server at 'reading initial communication packet', system error: 0
+October 29 20:37:30 Could not connect to remote VIPAR database resource lvdondz on port 22. dbi:mysql:lvdondz:127.0.0.1:22, remoteselect, clepridros Error: Lost connection to MySQL server at 'reading initial communication packet', system error: 0
+October 29 20:37:30 Could not connect to remote VIPAR database resource test on port 22. dbi:mysql:test:127.0.0.1:22, remoteselect, clepridros Error: Lost connection to MySQL server at 'reading initial communication packet', system error: 0
+October 29 20:40:23 Checking 1 sites configured in VIPAR database
+October 29 20:40:24 Process 2844:thread 10576 checking resource via localhost:23
+October 29 20:40:24 Process 2844:thread 10577 checking resource via localhost:22
+October 29 20:40:24 Process 2844:thread 10578 checking resource via localhost:22
+October 29 20:40:27 Could not connect to remote VIPAR database resource unimuen on port 23. dbi:mysql:unimuen:127.0.0.1:23, remoteselect, clepridros Error: Lost connection to MySQL server at 'reading initial communication packet', system error: 0
+October 29 20:42:31 Could not connect to remote VIPAR database resource lvdondz on port 22. dbi:mysql:lvdondz:127.0.0.1:22, remoteselect, clepridros Error: Lost connection to MySQL server at 'reading initial communication packet', system error: 0
+October 29 20:42:31 Could not connect to remote VIPAR database resource test on port 22. dbi:mysql:test:127.0.0.1:22, remoteselect, clepridros Error: Lost connection to MySQL server at 'reading initial communication packet', system error: 0
+October 29 20:45:23 Checking 1 sites configured in VIPAR database
+October 29 20:45:23 Process 2844:thread 10579 checking resource via localhost:23
+October 29 20:45:23 Process 2844:thread 10580 checking resource via localhost:22
+October 29 20:45:23 Process 2844:thread 10581 checking resource via localhost:22
+October 29 20:45:26 Could not connect to remote VIPAR database resource unimuen on port 23. dbi:mysql:unimuen:127.0.0.1:23, remoteselect, clepridros Error: Lost connection to MySQL server at 'reading initial communication packet', system error: 0
+October 29 20:47:31 Could not connect to remote VIPAR database resource lvdondz on port 22. dbi:mysql:lvdondz:127.0.0.1:22, remoteselect, clepridros Error: Lost connection to MySQL server at 'reading initial communication packet', system error: 0
+October 29 20:47:31 Could not connect to remote VIPAR database resource test on port 22. dbi:mysql:test:127.0.0.1:22, remoteselect, clepridros Error: Lost connection to MySQL server at 'reading initial communication packet', system error: 0
+October 29 20:50:23 Checking 1 sites configured in VIPAR database
+October 29 20:50:23 Process 2844:thread 10582 checking resource via localhost:23
+October 29 20:50:23 Process 2844:thread 10583 checking resource via localhost:22
+October 29 20:50:23 Process 2844:thread 10584 checking resource via localhost:22
+October 29 20:50:26 Could not connect to remote VIPAR database resource unimuen on port 23. dbi:mysql:unimuen:127.0.0.1:23, remoteselect, clepridros Error: Lost connection to MySQL server at 'reading initial communication packet', system error: 0
+October 29 20:52:30 Could not connect to remote VIPAR database resource lvdondz on port 22. dbi:mysql:lvdondz:127.0.0.1:22, remoteselect, clepridros Error: Lost connection to MySQL server at 'reading initial communication packet', system error: 0
+October 29 20:52:30 Could not connect to remote VIPAR database resource test on port 22. dbi:mysql:test:127.0.0.1:22, remoteselect, clepridros Error: Lost connection to MySQL server at 'reading initial communication packet', system error: 0
+October 29 20:55:23 Checking 1 sites configured in VIPAR database
+October 29 20:55:23 Process 2844:thread 10585 checking resource via localhost:23
+October 29 20:55:23 Process 2844:thread 10586 checking resource via localhost:22
+October 29 20:55:23 Process 2844:thread 10587 checking resource via localhost:22
+October 29 20:55:26 Could not connect to remote VIPAR database resource unimuen on port 23. dbi:mysql:unimuen:127.0.0.1:23, remoteselect, clepridros Error: Lost connection to MySQL server at 'reading initial communication packet', system error: 0
+October 29 20:57:30 Could not connect to remote VIPAR database resource lvdondz on port 22. dbi:mysql:lvdondz:127.0.0.1:22, remoteselect, clepridros Error: Lost connection to MySQL server at 'reading initial communication packet', system error: 0
+October 29 20:57:30 Could not connect to remote VIPAR database resource test on port 22. dbi:mysql:test:127.0.0.1:22, remoteselect, clepridros Error: Lost connection to MySQL server at 'reading initial communication packet', system error: 0
+October 29 21:00:23 Checking 1 sites configured in VIPAR database
+October 29 21:00:23 Process 2844:thread 10588 checking resource via localhost:23
+October 29 21:00:23 Process 2844:thread 10589 checking resource via localhost:22
+October 29 21:00:23 Process 2844:thread 10590 checking resource via localhost:22
+October 29 21:00:26 Could not connect to remote VIPAR database resource unimuen on port 23. dbi:mysql:unimuen:127.0.0.1:23, remoteselect, clepridros Error: Lost connection to MySQL server at 'reading initial communication packet', system error: 0
+October 29 21:02:30 Could not connect to remote VIPAR database resource lvdondz on port 22. dbi:mysql:lvdondz:127.0.0.1:22, remoteselect, clepridros Error: Lost connection to MySQL server at 'reading initial communication packet', system error: 0
+October 29 21:02:30 Could not connect to remote VIPAR database resource test on port 22. dbi:mysql:test:127.0.0.1:22, remoteselect, clepridros Error: Lost connection to MySQL server at 'reading initial communication packet', system error: 0
+October 29 21:05:23 Checking 1 sites configured in VIPAR database
+October 29 21:05:23 Process 2844:thread 10591 checking resource via localhost:23
+October 29 21:05:23 Process 2844:thread 10592 checking resource via localhost:22
+October 29 21:05:23 Process 2844:thread 10593 checking resource via localhost:22
+October 29 21:05:26 Could not connect to remote VIPAR database resource unimuen on port 23. dbi:mysql:unimuen:127.0.0.1:23, remoteselect, clepridros Error: Lost connection to MySQL server at 'reading initial communication packet', system error: 0
+October 29 21:07:31 Could not connect to remote VIPAR database resource lvdondz on port 22. dbi:mysql:lvdondz:127.0.0.1:22, remoteselect, clepridros Error: Lost connection to MySQL server at 'reading initial communication packet', system error: 0
+October 29 21:07:31 Could not connect to remote VIPAR database resource test on port 22. dbi:mysql:test:127.0.0.1:22, remoteselect, clepridros Error: Lost connection to MySQL server at 'reading initial communication packet', system error: 0
+October 29 21:10:23 Checking 1 sites configured in VIPAR database
+October 29 21:10:23 Process 2844:thread 10594 checking resource via localhost:23
+October 29 21:10:23 Process 2844:thread 10595 checking resource via localhost:22
+October 29 21:10:23 Process 2844:thread 10596 checking resource via localhost:22
+October 29 21:10:26 Could not connect to remote VIPAR database resource unimuen on port 23. dbi:mysql:unimuen:127.0.0.1:23, remoteselect, clepridros Error: Lost connection to MySQL server at 'reading initial communication packet', system error: 0
+October 29 21:12:30 Could not connect to remote VIPAR database resource test on port 22. dbi:mysql:test:127.0.0.1:22, remoteselect, clepridros Error: Lost connection to MySQL server at 'reading initial communication packet', system error: 0
+October 29 21:12:30 Could not connect to remote VIPAR database resource lvdondz on port 22. dbi:mysql:lvdondz:127.0.0.1:22, remoteselect, clepridros Error: Lost connection to MySQL server at 'reading initial communication packet', system error: 0
+October 29 21:15:23 Checking 1 sites configured in VIPAR database
+October 29 21:15:23 Process 2844:thread 10597 checking resource via localhost:23
+October 29 21:15:23 Process 2844:thread 10598 checking resource via localhost:22
+October 29 21:15:23 Process 2844:thread 10599 checking resource via localhost:22
+October 29 21:15:26 Could not connect to remote VIPAR database resource unimuen on port 23. dbi:mysql:unimuen:127.0.0.1:23, remoteselect, clepridros Error: Lost connection to MySQL server at 'reading initial communication packet', system error: 0
+October 29 21:17:31 Could not connect to remote VIPAR database resource lvdondz on port 22. dbi:mysql:lvdondz:127.0.0.1:22, remoteselect, clepridros Error: Lost connection to MySQL server at 'reading initial communication packet', system error: 0
+October 29 21:17:31 Could not connect to remote VIPAR database resource test on port 22. dbi:mysql:test:127.0.0.1:22, remoteselect, clepridros Error: Lost connection to MySQL server at 'reading initial communication packet', system error: 0
+October 29 21:20:23 Checking 1 sites configured in VIPAR database
+October 29 21:20:23 Process 2844:thread 10600 checking resource via localhost:23
+October 29 21:20:23 Process 2844:thread 10601 checking resource via localhost:22
+October 29 21:20:23 Process 2844:thread 10602 checking resource via localhost:22
+October 29 21:20:26 Could not connect to remote VIPAR database resource unimuen on port 23. dbi:mysql:unimuen:127.0.0.1:23, remoteselect, clepridros Error: Lost connection to MySQL server at 'reading initial communication packet', system error: 0
+October 29 21:22:30 Could not connect to remote VIPAR database resource lvdondz on port 22. dbi:mysql:lvdondz:127.0.0.1:22, remoteselect, clepridros Error: Lost connection to MySQL server at 'reading initial communication packet', system error: 0
+October 29 21:22:30 Could not connect to remote VIPAR database resource test on port 22. dbi:mysql:test:127.0.0.1:22, remoteselect, clepridros Error: Lost connection to MySQL server at 'reading initial communication packet', system error: 0
+October 29 21:25:23 Checking 1 sites configured in VIPAR database
+October 29 21:25:23 Process 2844:thread 10603 checking resource via localhost:23
+October 29 21:25:23 Process 2844:thread 10604 checking resource via localhost:22
+October 29 21:25:24 Process 2844:thread 10605 checking resource via localhost:22
+October 29 21:25:26 Could not connect to remote VIPAR database resource unimuen on port 23. dbi:mysql:unimuen:127.0.0.1:23, remoteselect, clepridros Error: Lost connection to MySQL server at 'reading initial communication packet', system error: 0
+October 29 21:27:31 Could not connect to remote VIPAR database resource lvdondz on port 22. dbi:mysql:lvdondz:127.0.0.1:22, remoteselect, clepridros Error: Lost connection to MySQL server at 'reading initial communication packet', system error: 0
+October 29 21:27:31 Could not connect to remote VIPAR database resource test on port 22. dbi:mysql:test:127.0.0.1:22, remoteselect, clepridros Error: Lost connection to MySQL server at 'reading initial communication packet', system error: 0
+October 29 21:30:23 Checking 1 sites configured in VIPAR database
+October 29 21:30:23 Process 2844:thread 10606 checking resource via localhost:23
+October 29 21:30:23 Process 2844:thread 10607 checking resource via localhost:22
+October 29 21:30:23 Process 2844:thread 10608 checking resource via localhost:22
+October 29 21:30:26 Could not connect to remote VIPAR database resource unimuen on port 23. dbi:mysql:unimuen:127.0.0.1:23, remoteselect, clepridros Error: Lost connection to MySQL server at 'reading initial communication packet', system error: 0
+October 29 21:32:30 Could not connect to remote VIPAR database resource lvdondz on port 22. dbi:mysql:lvdondz:127.0.0.1:22, remoteselect, clepridros Error: Lost connection to MySQL server at 'reading initial communication packet', system error: 0
+October 29 21:32:30 Could not connect to remote VIPAR database resource test on port 22. dbi:mysql:test:127.0.0.1:22, remoteselect, clepridros Error: Lost connection to MySQL server at 'reading initial communication packet', system error: 0
+October 29 21:35:23 Checking 1 sites configured in VIPAR database
+October 29 21:35:23 Process 2844:thread 10609 checking resource via localhost:23
+October 29 21:35:23 Process 2844:thread 10610 checking resource via localhost:22
+October 29 21:35:24 Process 2844:thread 10611 checking resource via localhost:22
+October 29 21:35:26 Could not connect to remote VIPAR database resource unimuen on port 23. dbi:mysql:unimuen:127.0.0.1:23, remoteselect, clepridros Error: Lost connection to MySQL server at 'reading initial communication packet', system error: 0
+October 29 21:37:31 Could not connect to remote VIPAR database resource lvdondz on port 22. dbi:mysql:lvdondz:127.0.0.1:22, remoteselect, clepridros Error: Lost connection to MySQL server at 'reading initial communication packet', system error: 0
+October 29 21:37:31 Could not connect to remote VIPAR database resource test on port 22. dbi:mysql:test:127.0.0.1:22, remoteselect, clepridros Error: Lost connection to MySQL server at 'reading initial communication packet', system error: 0
+October 29 21:40:23 Checking 1 sites configured in VIPAR database
+October 29 21:40:23 Process 2844:thread 10612 checking resource via localhost:23
+October 29 21:40:23 Process 2844:thread 10613 checking resource via localhost:22
+October 29 21:40:23 Process 2844:thread 10614 checking resource via localhost:22
+October 29 21:40:26 Could not connect to remote VIPAR database resource unimuen on port 23. dbi:mysql:unimuen:127.0.0.1:23, remoteselect, clepridros Error: Lost connection to MySQL server at 'reading initial communication packet', system error: 0
+October 29 21:42:30 Could not connect to remote VIPAR database resource lvdondz on port 22. dbi:mysql:lvdondz:127.0.0.1:22, remoteselect, clepridros Error: Lost connection to MySQL server at 'reading initial communication packet', system error: 0
+October 29 21:42:30 Could not connect to remote VIPAR database resource test on port 22. dbi:mysql:test:127.0.0.1:22, remoteselect, clepridros Error: Lost connection to MySQL server at 'reading initial communication packet', system error: 0
+October 29 21:45:23 Checking 1 sites configured in VIPAR database
+October 29 21:45:23 Process 2844:thread 10615 checking resource via localhost:23
+October 29 21:45:24 Process 2844:thread 10616 checking resource via localhost:22
+October 29 21:45:24 Process 2844:thread 10617 checking resource via localhost:22
+October 29 21:45:26 Could not connect to remote VIPAR database resource unimuen on port 23. dbi:mysql:unimuen:127.0.0.1:23, remoteselect, clepridros Error: Lost connection to MySQL server at 'reading initial communication packet', system error: 0
+October 29 21:47:31 Could not connect to remote VIPAR database resource lvdondz on port 22. dbi:mysql:lvdondz:127.0.0.1:22, remoteselect, clepridros Error: Lost connection to MySQL server at 'reading initial communication packet', system error: 0
+October 29 21:47:31 Could not connect to remote VIPAR database resource test on port 22. dbi:mysql:test:127.0.0.1:22, remoteselect, clepridros Error: Lost connection to MySQL server at 'reading initial communication packet', system error: 0
+October 29 21:50:23 Checking 1 sites configured in VIPAR database
+October 29 21:50:23 Process 2844:thread 10618 checking resource via localhost:23
+October 29 21:50:23 Process 2844:thread 10619 checking resource via localhost:22
+October 29 21:50:23 Process 2844:thread 10620 checking resource via localhost:22
+October 29 21:50:26 Could not connect to remote VIPAR database resource unimuen on port 23. dbi:mysql:unimuen:127.0.0.1:23, remoteselect, clepridros Error: Lost connection to MySQL server at 'reading initial communication packet', system error: 0
+October 29 21:52:30 Could not connect to remote VIPAR database resource lvdondz on port 22. dbi:mysql:lvdondz:127.0.0.1:22, remoteselect, clepridros Error: Lost connection to MySQL server at 'reading initial communication packet', system error: 0
+October 29 21:52:30 Could not connect to remote VIPAR database resource test on port 22. dbi:mysql:test:127.0.0.1:22, remoteselect, clepridros Error: Lost connection to MySQL server at 'reading initial communication packet', system error: 0
+October 29 21:55:23 Checking 1 sites configured in VIPAR database
+October 29 21:55:23 Process 2844:thread 10621 checking resource via localhost:23
+October 29 21:55:23 Process 2844:thread 10622 checking resource via localhost:22
+October 29 21:55:23 Process 2844:thread 10623 checking resource via localhost:22
+October 29 21:55:26 Could not connect to remote VIPAR database resource unimuen on port 23. dbi:mysql:unimuen:127.0.0.1:23, remoteselect, clepridros Error: Lost connection to MySQL server at 'reading initial communication packet', system error: 0
+October 29 21:57:30 Could not connect to remote VIPAR database resource lvdondz on port 22. dbi:mysql:lvdondz:127.0.0.1:22, remoteselect, clepridros Error: Lost connection to MySQL server at 'reading initial communication packet', system error: 0
+October 29 21:57:30 Could not connect to remote VIPAR database resource test on port 22. dbi:mysql:test:127.0.0.1:22, remoteselect, clepridros Error: Lost connection to MySQL server at 'reading initial communication packet', system error: 0
+October 29 22:00:23 Checking 1 sites configured in VIPAR database
+October 29 22:00:23 Process 2844:thread 10624 checking resource via localhost:23
+October 29 22:00:23 Process 2844:thread 10625 checking resource via localhost:22
+October 29 22:00:23 Process 2844:thread 10626 checking resource via localhost:22
+October 29 22:00:26 Could not connect to remote VIPAR database resource unimuen on port 23. dbi:mysql:unimuen:127.0.0.1:23, remoteselect, clepridros Error: Lost connection to MySQL server at 'reading initial communication packet', system error: 0
+October 29 22:02:30 Could not connect to remote VIPAR database resource lvdondz on port 22. dbi:mysql:lvdondz:127.0.0.1:22, remoteselect, clepridros Error: Lost connection to MySQL server at 'reading initial communication packet', system error: 0
+October 29 22:02:30 Could not connect to remote VIPAR database resource test on port 22. dbi:mysql:test:127.0.0.1:22, remoteselect, clepridros Error: Lost connection to MySQL server at 'reading initial communication packet', system error: 0
+October 29 22:05:23 Checking 1 sites configured in VIPAR database
+October 29 22:05:23 Process 2844:thread 10627 checking resource via localhost:23
+October 29 22:05:23 Process 2844:thread 10628 checking resource via localhost:22
+October 29 22:05:23 Process 2844:thread 10629 checking resource via localhost:22
+October 29 22:05:26 Could not connect to remote VIPAR database resource unimuen on port 23. dbi:mysql:unimuen:127.0.0.1:23, remoteselect, clepridros Error: Lost connection to MySQL server at 'reading initial communication packet', system error: 0
+October 29 22:07:30 Could not connect to remote VIPAR database resource lvdondz on port 22. dbi:mysql:lvdondz:127.0.0.1:22, remoteselect, clepridros Error: Lost connection to MySQL server at 'reading initial communication packet', system error: 0
+October 29 22:07:30 Could not connect to remote VIPAR database resource test on port 22. dbi:mysql:test:127.0.0.1:22, remoteselect, clepridros Error: Lost connection to MySQL server at 'reading initial communication packet', system error: 0
+October 29 22:10:23 Checking 1 sites configured in VIPAR database
+October 29 22:10:23 Process 2844:thread 10630 checking resource via localhost:23
+October 29 22:10:23 Process 2844:thread 10631 checking resource via localhost:22
+October 29 22:10:23 Process 2844:thread 10632 checking resource via localhost:22
+October 29 22:10:26 Could not connect to remote VIPAR database resource unimuen on port 23. dbi:mysql:unimuen:127.0.0.1:23, remoteselect, clepridros Error: Lost connection to MySQL server at 'reading initial communication packet', system error: 0
+October 29 22:12:30 Could not connect to remote VIPAR database resource lvdondz on port 22. dbi:mysql:lvdondz:127.0.0.1:22, remoteselect, clepridros Error: Lost connection to MySQL server at 'reading initial communication packet', system error: 0
+October 29 22:12:31 Could not connect to remote VIPAR database resource test on port 22. dbi:mysql:test:127.0.0.1:22, remoteselect, clepridros Error: Lost connection to MySQL server at 'reading initial communication packet', system error: 0
+October 29 22:15:23 Checking 1 sites configured in VIPAR database
+October 29 22:15:24 Process 2844:thread 10633 checking resource via localhost:23
+October 29 22:15:24 Process 2844:thread 10634 checking resource via localhost:22
+October 29 22:15:24 Process 2844:thread 10635 checking resource via localhost:22
+October 29 22:15:27 Could not connect to remote VIPAR database resource unimuen on port 23. dbi:mysql:unimuen:127.0.0.1:23, remoteselect, clepridros Error: Lost connection to MySQL server at 'reading initial communication packet', system error: 0
+October 29 22:17:31 Could not connect to remote VIPAR database resource test on port 22. dbi:mysql:test:127.0.0.1:22, remoteselect, clepridros Error: Lost connection to MySQL server at 'reading initial communication packet', system error: 0
+October 29 22:17:31 Could not connect to remote VIPAR database resource lvdondz on port 22. dbi:mysql:lvdondz:127.0.0.1:22, remoteselect, clepridros Error: Lost connection to MySQL server at 'reading initial communication packet', system error: 0
+October 29 22:20:23 Checking 1 sites configured in VIPAR database
+October 29 22:20:23 Process 2844:thread 10636 checking resource via localhost:23
+October 29 22:20:23 Process 2844:thread 10637 checking resource via localhost:22
+October 29 22:20:23 Process 2844:thread 10638 checking resource via localhost:22
+October 29 22:20:26 Could not connect to remote VIPAR database resource unimuen on port 23. dbi:mysql:unimuen:127.0.0.1:23, remoteselect, clepridros Error: Lost connection to MySQL server at 'reading initial communication packet', system error: 0
+October 29 22:22:30 Could not connect to remote VIPAR database resource test on port 22. dbi:mysql:test:127.0.0.1:22, remoteselect, clepridros Error: Lost connection to MySQL server at 'reading initial communication packet', system error: 0
+October 29 22:22:30 Could not connect to remote VIPAR database resource lvdondz on port 22. dbi:mysql:lvdondz:127.0.0.1:22, remoteselect, clepridros Error: Lost connection to MySQL server at 'reading initial communication packet', system error: 0
+October 29 22:25:23 Checking 1 sites configured in VIPAR database
+October 29 22:25:23 Process 2844:thread 10639 checking resource via localhost:23
+October 29 22:25:23 Process 2844:thread 10640 checking resource via localhost:22
+October 29 22:25:23 Process 2844:thread 10641 checking resource via localhost:22
+October 29 22:25:26 Could not connect to remote VIPAR database resource unimuen on port 23. dbi:mysql:unimuen:127.0.0.1:23, remoteselect, clepridros Error: Lost connection to MySQL server at 'reading initial communication packet', system error: 0
+October 29 22:27:30 Could not connect to remote VIPAR database resource lvdondz on port 22. dbi:mysql:lvdondz:127.0.0.1:22, remoteselect, clepridros Error: Lost connection to MySQL server at 'reading initial communication packet', system error: 0
+October 29 22:27:30 Could not connect to remote VIPAR database resource test on port 22. dbi:mysql:test:127.0.0.1:22, remoteselect, clepridros Error: Lost connection to MySQL server at 'reading initial communication packet', system error: 0
+October 29 22:30:23 Checking 1 sites configured in VIPAR database
+October 29 22:30:23 Process 2844:thread 10642 checking resource via localhost:23
+October 29 22:30:23 Process 2844:thread 10643 checking resource via localhost:22
+October 29 22:30:23 Process 2844:thread 10644 checking resource via localhost:22
+October 29 22:30:26 Could not connect to remote VIPAR database resource unimuen on port 23. dbi:mysql:unimuen:127.0.0.1:23, remoteselect, clepridros Error: Lost connection to MySQL server at 'reading initial communication packet', system error: 0
+October 29 22:32:30 Could not connect to remote VIPAR database resource test on port 22. dbi:mysql:test:127.0.0.1:22, remoteselect, clepridros Error: Lost connection to MySQL server at 'reading initial communication packet', system error: 0
+October 29 22:32:30 Could not connect to remote VIPAR database resource lvdondz on port 22. dbi:mysql:lvdondz:127.0.0.1:22, remoteselect, clepridros Error: Lost connection to MySQL server at 'reading initial communication packet', system error: 0
+October 29 22:35:23 Checking 1 sites configured in VIPAR database
+October 29 22:35:24 Process 2844:thread 10645 checking resource via localhost:23
+October 29 22:35:24 Process 2844:thread 10646 checking resource via localhost:22
+October 29 22:35:24 Process 2844:thread 10647 checking resource via localhost:22
+October 29 22:35:27 Could not connect to remote VIPAR database resource unimuen on port 23. dbi:mysql:unimuen:127.0.0.1:23, remoteselect, clepridros Error: Lost connection to MySQL server at 'reading initial communication packet', system error: 0
+October 29 22:37:31 Could not connect to remote VIPAR database resource lvdondz on port 22. dbi:mysql:lvdondz:127.0.0.1:22, remoteselect, clepridros Error: Lost connection to MySQL server at 'reading initial communication packet', system error: 0
+October 29 22:37:31 Could not connect to remote VIPAR database resource test on port 22. dbi:mysql:test:127.0.0.1:22, remoteselect, clepridros Error: Lost connection to MySQL server at 'reading initial communication packet', system error: 0
+October 29 22:40:23 Checking 1 sites configured in VIPAR database
+October 29 22:40:23 Process 2844:thread 10648 checking resource via localhost:23
+October 29 22:40:23 Process 2844:thread 10649 checking resource via localhost:22
+October 29 22:40:23 Process 2844:thread 10650 checking resource via localhost:22
+October 29 22:40:26 Could not connect to remote VIPAR database resource unimuen on port 23. dbi:mysql:unimuen:127.0.0.1:23, remoteselect, clepridros Error: Lost connection to MySQL server at 'reading initial communication packet', system error: 0
+October 29 22:42:30 Could not connect to remote VIPAR database resource test on port 22. dbi:mysql:test:127.0.0.1:22, remoteselect, clepridros Error: Lost connection to MySQL server at 'reading initial communication packet', system error: 0
+October 29 22:42:30 Could not connect to remote VIPAR database resource lvdondz on port 22. dbi:mysql:lvdondz:127.0.0.1:22, remoteselect, clepridros Error: Lost connection to MySQL server at 'reading initial communication packet', system error: 0
+October 29 22:45:23 Checking 1 sites configured in VIPAR database
+October 29 22:45:24 Process 2844:thread 10651 checking resource via localhost:23
+October 29 22:45:24 Process 2844:thread 10652 checking resource via localhost:22
+October 29 22:45:24 Process 2844:thread 10653 checking resource via localhost:22
+October 29 22:45:27 Could not connect to remote VIPAR database resource unimuen on port 23. dbi:mysql:unimuen:127.0.0.1:23, remoteselect, clepridros Error: Lost connection to MySQL server at 'reading initial communication packet', system error: 0
+October 29 22:47:31 Could not connect to remote VIPAR database resource lvdondz on port 22. dbi:mysql:lvdondz:127.0.0.1:22, remoteselect, clepridros Error: Lost connection to MySQL server at 'reading initial communication packet', system error: 0
+October 29 22:47:31 Could not connect to remote VIPAR database resource test on port 22. dbi:mysql:test:127.0.0.1:22, remoteselect, clepridros Error: Lost connection to MySQL server at 'reading initial communication packet', system error: 0
+October 29 22:50:23 Checking 1 sites configured in VIPAR database
+October 29 22:50:23 Process 2844:thread 10654 checking resource via localhost:23
+October 29 22:50:23 Process 2844:thread 10655 checking resource via localhost:22
+October 29 22:50:23 Process 2844:thread 10656 checking resource via localhost:22
+October 29 22:50:26 Could not connect to remote VIPAR database resource unimuen on port 23. dbi:mysql:unimuen:127.0.0.1:23, remoteselect, clepridros Error: Lost connection to MySQL server at 'reading initial communication packet', system error: 0
+October 29 22:52:30 Could not connect to remote VIPAR database resource lvdondz on port 22. dbi:mysql:lvdondz:127.0.0.1:22, remoteselect, clepridros Error: Lost connection to MySQL server at 'reading initial communication packet', system error: 0
+October 29 22:52:31 Could not connect to remote VIPAR database resource test on port 22. dbi:mysql:test:127.0.0.1:22, remoteselect, clepridros Error: Lost connection to MySQL server at 'reading initial communication packet', system error: 0
+October 29 22:55:23 Checking 1 sites configured in VIPAR database
+October 29 22:55:23 Process 2844:thread 10657 checking resource via localhost:23
+October 29 22:55:23 Process 2844:thread 10658 checking resource via localhost:22
+October 29 22:55:23 Process 2844:thread 10659 checking resource via localhost:22
+October 29 22:55:26 Could not connect to remote VIPAR database resource unimuen on port 23. dbi:mysql:unimuen:127.0.0.1:23, remoteselect, clepridros Error: Lost connection to MySQL server at 'reading initial communication packet', system error: 0
+October 29 22:57:30 Could not connect to remote VIPAR database resource lvdondz on port 22. dbi:mysql:lvdondz:127.0.0.1:22, remoteselect, clepridros Error: Lost connection to MySQL server at 'reading initial communication packet', system error: 0
+October 29 22:57:30 Could not connect to remote VIPAR database resource test on port 22. dbi:mysql:test:127.0.0.1:22, remoteselect, clepridros Error: Lost connection to MySQL server at 'reading initial communication packet', system error: 0
+October 29 23:00:23 Checking 1 sites configured in VIPAR database
+October 29 23:00:23 Process 2844:thread 10660 checking resource via localhost:23
+October 29 23:00:23 Process 2844:thread 10661 checking resource via localhost:22
+October 29 23:00:23 Process 2844:thread 10662 checking resource via localhost:22
+October 29 23:00:26 Could not connect to remote VIPAR database resource unimuen on port 23. dbi:mysql:unimuen:127.0.0.1:23, remoteselect, clepridros Error: Lost connection to MySQL server at 'reading initial communication packet', system error: 0
+October 29 23:02:30 Could not connect to remote VIPAR database resource lvdondz on port 22. dbi:mysql:lvdondz:127.0.0.1:22, remoteselect, clepridros Error: Lost connection to MySQL server at 'reading initial communication packet', system error: 0
+October 29 23:02:30 Could not connect to remote VIPAR database resource test on port 22. dbi:mysql:test:127.0.0.1:22, remoteselect, clepridros Error: Lost connection to MySQL server at 'reading initial communication packet', system error: 0
+October 29 23:05:23 Checking 1 sites configured in VIPAR database
+October 29 23:05:23 Process 2844:thread 10663 checking resource via localhost:23
+October 29 23:05:23 Process 2844:thread 10664 checking resource via localhost:22
+October 29 23:05:23 Process 2844:thread 10665 checking resource via localhost:22
+October 29 23:05:26 Could not connect to remote VIPAR database resource unimuen on port 23. dbi:mysql:unimuen:127.0.0.1:23, remoteselect, clepridros Error: Lost connection to MySQL server at 'reading initial communication packet', system error: 0
+October 29 23:07:30 Could not connect to remote VIPAR database resource lvdondz on port 22. dbi:mysql:lvdondz:127.0.0.1:22, remoteselect, clepridros Error: Lost connection to MySQL server at 'reading initial communication packet', system error: 0
+October 29 23:07:30 Could not connect to remote VIPAR database resource test on port 22. dbi:mysql:test:127.0.0.1:22, remoteselect, clepridros Error: Lost connection to MySQL server at 'reading initial communication packet', system error: 0
+October 29 23:10:23 Checking 1 sites configured in VIPAR database
+October 29 23:10:23 Process 2844:thread 10666 checking resource via localhost:23
+October 29 23:10:23 Process 2844:thread 10667 checking resource via localhost:22
+October 29 23:10:23 Process 2844:thread 10668 checking resource via localhost:22
+October 29 23:10:26 Could not connect to remote VIPAR database resource unimuen on port 23. dbi:mysql:unimuen:127.0.0.1:23, remoteselect, clepridros Error: Lost connection to MySQL server at 'reading initial communication packet', system error: 0
+October 29 23:12:30 Could not connect to remote VIPAR database resource lvdondz on port 22. dbi:mysql:lvdondz:127.0.0.1:22, remoteselect, clepridros Error: Lost connection to MySQL server at 'reading initial communication packet', system error: 0
+October 29 23:12:31 Could not connect to remote VIPAR database resource test on port 22. dbi:mysql:test:127.0.0.1:22, remoteselect, clepridros Error: Lost connection to MySQL server at 'reading initial communication packet', system error: 0
+October 29 23:15:23 Checking 1 sites configured in VIPAR database
+October 29 23:15:23 Process 2844:thread 10669 checking resource via localhost:23
+October 29 23:15:23 Process 2844:thread 10670 checking resource via localhost:22
+October 29 23:15:23 Process 2844:thread 10671 checking resource via localhost:22
+October 29 23:15:26 Could not connect to remote VIPAR database resource unimuen on port 23. dbi:mysql:unimuen:127.0.0.1:23, remoteselect, clepridros Error: Lost connection to MySQL server at 'reading initial communication packet', system error: 0
+October 29 23:17:30 Could not connect to remote VIPAR database resource lvdondz on port 22. dbi:mysql:lvdondz:127.0.0.1:22, remoteselect, clepridros Error: Lost connection to MySQL server at 'reading initial communication packet', system error: 0
+October 29 23:17:30 Could not connect to remote VIPAR database resource test on port 22. dbi:mysql:test:127.0.0.1:22, remoteselect, clepridros Error: Lost connection to MySQL server at 'reading initial communication packet', system error: 0
+October 29 23:20:23 Checking 1 sites configured in VIPAR database
+October 29 23:20:23 Process 2844:thread 10672 checking resource via localhost:23
+October 29 23:20:23 Process 2844:thread 10673 checking resource via localhost:22
+October 29 23:20:23 Process 2844:thread 10674 checking resource via localhost:22
+October 29 23:20:26 Could not connect to remote VIPAR database resource unimuen on port 23. dbi:mysql:unimuen:127.0.0.1:23, remoteselect, clepridros Error: Lost connection to MySQL server at 'reading initial communication packet', system error: 0
+October 29 23:22:30 Could not connect to remote VIPAR database resource lvdondz on port 22. dbi:mysql:lvdondz:127.0.0.1:22, remoteselect, clepridros Error: Lost connection to MySQL server at 'reading initial communication packet', system error: 0
+October 29 23:22:30 Could not connect to remote VIPAR database resource test on port 22. dbi:mysql:test:127.0.0.1:22, remoteselect, clepridros Error: Lost connection to MySQL server at 'reading initial communication packet', system error: 0
+October 29 23:25:23 Checking 1 sites configured in VIPAR database
+October 29 23:25:24 Process 2844:thread 10675 checking resource via localhost:23
+October 29 23:25:24 Process 2844:thread 10676 checking resource via localhost:22
+October 29 23:25:24 Process 2844:thread 10677 checking resource via localhost:22
+October 29 23:25:27 Could not connect to remote VIPAR database resource unimuen on port 23. dbi:mysql:unimuen:127.0.0.1:23, remoteselect, clepridros Error: Lost connection to MySQL server at 'reading initial communication packet', system error: 0
+October 29 23:27:31 Could not connect to remote VIPAR database resource lvdondz on port 22. dbi:mysql:lvdondz:127.0.0.1:22, remoteselect, clepridros Error: Lost connection to MySQL server at 'reading initial communication packet', system error: 0
+October 29 23:27:31 Could not connect to remote VIPAR database resource test on port 22. dbi:mysql:test:127.0.0.1:22, remoteselect, clepridros Error: Lost connection to MySQL server at 'reading initial communication packet', system error: 0
+October 29 23:30:23 Checking 1 sites configured in VIPAR database
+October 29 23:30:23 Process 2844:thread 10678 checking resource via localhost:23
+October 29 23:30:23 Process 2844:thread 10679 checking resource via localhost:22
+October 29 23:30:23 Process 2844:thread 10680 checking resource via localhost:22
+October 29 23:30:26 Could not connect to remote VIPAR database resource unimuen on port 23. dbi:mysql:unimuen:127.0.0.1:23, remoteselect, clepridros Error: Lost connection to MySQL server at 'reading initial communication packet', system error: 0
+October 29 23:32:30 Could not connect to remote VIPAR database resource lvdondz on port 22. dbi:mysql:lvdondz:127.0.0.1:22, remoteselect, clepridros Error: Lost connection to MySQL server at 'reading initial communication packet', system error: 0
+October 29 23:32:31 Could not connect to remote VIPAR database resource test on port 22. dbi:mysql:test:127.0.0.1:22, remoteselect, clepridros Error: Lost connection to MySQL server at 'reading initial communication packet', system error: 0
+October 29 23:35:23 Checking 1 sites configured in VIPAR database
+October 29 23:35:23 Process 2844:thread 10681 checking resource via localhost:23
+October 29 23:35:23 Process 2844:thread 10682 checking resource via localhost:22
+October 29 23:35:23 Process 2844:thread 10683 checking resource via localhost:22
+October 29 23:35:26 Could not connect to remote VIPAR database resource unimuen on port 23. dbi:mysql:unimuen:127.0.0.1:23, remoteselect, clepridros Error: Lost connection to MySQL server at 'reading initial communication packet', system error: 0
+October 29 23:37:30 Could not connect to remote VIPAR database resource lvdondz on port 22. dbi:mysql:lvdondz:127.0.0.1:22, remoteselect, clepridros Error: Lost connection to MySQL server at 'reading initial communication packet', system error: 0
+October 29 23:37:30 Could not connect to remote VIPAR database resource test on port 22. dbi:mysql:test:127.0.0.1:22, remoteselect, clepridros Error: Lost connection to MySQL server at 'reading initial communication packet', system error: 0
+October 29 23:40:23 Checking 1 sites configured in VIPAR database
+October 29 23:40:23 Process 2844:thread 10684 checking resource via localhost:23
+October 29 23:40:23 Process 2844:thread 10685 checking resource via localhost:22
+October 29 23:40:23 Process 2844:thread 10686 checking resource via localhost:22
+October 29 23:40:26 Could not connect to remote VIPAR database resource unimuen on port 23. dbi:mysql:unimuen:127.0.0.1:23, remoteselect, clepridros Error: Lost connection to MySQL server at 'reading initial communication packet', system error: 0
+October 29 23:42:30 Could not connect to remote VIPAR database resource lvdondz on port 22. dbi:mysql:lvdondz:127.0.0.1:22, remoteselect, clepridros Error: Lost connection to MySQL server at 'reading initial communication packet', system error: 0
+October 29 23:42:30 Could not connect to remote VIPAR database resource test on port 22. dbi:mysql:test:127.0.0.1:22, remoteselect, clepridros Error: Lost connection to MySQL server at 'reading initial communication packet', system error: 0
+October 29 23:45:23 Checking 1 sites configured in VIPAR database
+October 29 23:45:23 Process 2844:thread 10687 checking resource via localhost:23
+October 29 23:45:23 Process 2844:thread 10688 checking resource via localhost:22
+October 29 23:45:23 Process 2844:thread 10689 checking resource via localhost:22
+October 29 23:45:26 Could not connect to remote VIPAR database resource unimuen on port 23. dbi:mysql:unimuen:127.0.0.1:23, remoteselect, clepridros Error: Lost connection to MySQL server at 'reading initial communication packet', system error: 0
+October 29 23:47:30 Could not connect to remote VIPAR database resource lvdondz on port 22. dbi:mysql:lvdondz:127.0.0.1:22, remoteselect, clepridros Error: Lost connection to MySQL server at 'reading initial communication packet', system error: 0
+October 29 23:47:30 Could not connect to remote VIPAR database resource test on port 22. dbi:mysql:test:127.0.0.1:22, remoteselect, clepridros Error: Lost connection to MySQL server at 'reading initial communication packet', system error: 0
+October 29 23:50:23 Checking 1 sites configured in VIPAR database
+October 29 23:50:23 Process 2844:thread 10690 checking resource via localhost:23
+October 29 23:50:23 Process 2844:thread 10691 checking resource via localhost:22
+October 29 23:50:23 Process 2844:thread 10692 checking resource via localhost:22
+October 29 23:50:26 Could not connect to remote VIPAR database resource unimuen on port 23. dbi:mysql:unimuen:127.0.0.1:23, remoteselect, clepridros Error: Lost connection to MySQL server at 'reading initial communication packet', system error: 0
+October 29 23:52:30 Could not connect to remote VIPAR database resource lvdondz on port 22. dbi:mysql:lvdondz:127.0.0.1:22, remoteselect, clepridros Error: Lost connection to MySQL server at 'reading initial communication packet', system error: 0
+October 29 23:52:31 Could not connect to remote VIPAR database resource test on port 22. dbi:mysql:test:127.0.0.1:22, remoteselect, clepridros Error: Lost connection to MySQL server at 'reading initial communication packet', system error: 0
+October 29 23:55:23 Checking 1 sites configured in VIPAR database
+October 29 23:55:23 Process 2844:thread 10693 checking resource via localhost:23
+October 29 23:55:23 Process 2844:thread 10694 checking resource via localhost:22
+October 29 23:55:23 Process 2844:thread 10695 checking resource via localhost:22
+October 29 23:55:26 Could not connect to remote VIPAR database resource unimuen on port 23. dbi:mysql:unimuen:127.0.0.1:23, remoteselect, clepridros Error: Lost connection to MySQL server at 'reading initial communication packet', system error: 0
+October 29 23:57:30 Could not connect to remote VIPAR database resource lvdondz on port 22. dbi:mysql:lvdondz:127.0.0.1:22, remoteselect, clepridros Error: Lost connection to MySQL server at 'reading initial communication packet', system error: 0
+October 29 23:57:30 Could not connect to remote VIPAR database resource test on port 22. dbi:mysql:test:127.0.0.1:22, remoteselect, clepridros Error: Lost connection to MySQL server at 'reading initial communication packet', system error: 0
+October 30 00:00:23 Checking 1 sites configured in VIPAR database
+October 30 00:00:23 Process 2844:thread 10696 checking resource via localhost:23
+October 30 00:00:23 Process 2844:thread 10697 checking resource via localhost:22
+October 30 00:00:23 Process 2844:thread 10698 checking resource via localhost:22
+October 30 00:00:26 Could not connect to remote VIPAR database resource unimuen on port 23. dbi:mysql:unimuen:127.0.0.1:23, remoteselect, clepridros Error: Lost connection to MySQL server at 'reading initial communication packet', system error: 0
+October 30 00:02:30 Could not connect to remote VIPAR database resource lvdondz on port 22. dbi:mysql:lvdondz:127.0.0.1:22, remoteselect, clepridros Error: Lost connection to MySQL server at 'reading initial communication packet', system error: 0
+October 30 00:02:30 Could not connect to remote VIPAR database resource test on port 22. dbi:mysql:test:127.0.0.1:22, remoteselect, clepridros Error: Lost connection to MySQL server at 'reading initial communication packet', system error: 0
+October 30 00:05:23 Checking 1 sites configured in VIPAR database
+October 30 00:05:24 Process 2844:thread 10699 checking resource via localhost:23
+October 30 00:05:24 Process 2844:thread 10700 checking resource via localhost:22
+October 30 00:05:24 Process 2844:thread 10701 checking resource via localhost:22
+October 30 00:05:27 Could not connect to remote VIPAR database resource unimuen on port 23. dbi:mysql:unimuen:127.0.0.1:23, remoteselect, clepridros Error: Lost connection to MySQL server at 'reading initial communication packet', system error: 0
+October 30 00:07:31 Could not connect to remote VIPAR database resource lvdondz on port 22. dbi:mysql:lvdondz:127.0.0.1:22, remoteselect, clepridros Error: Lost connection to MySQL server at 'reading initial communication packet', system error: 0
+October 30 00:07:31 Could not connect to remote VIPAR database resource test on port 22. dbi:mysql:test:127.0.0.1:22, remoteselect, clepridros Error: Lost connection to MySQL server at 'reading initial communication packet', system error: 0
+October 30 00:10:23 Checking 1 sites configured in VIPAR database
+October 30 00:10:23 Process 2844:thread 10702 checking resource via localhost:23
+October 30 00:10:23 Process 2844:thread 10703 checking resource via localhost:22
+October 30 00:10:23 Process 2844:thread 10704 checking resource via localhost:22
+October 30 00:10:26 Could not connect to remote VIPAR database resource unimuen on port 23. dbi:mysql:unimuen:127.0.0.1:23, remoteselect, clepridros Error: Lost connection to MySQL server at 'reading initial communication packet', system error: 0
+October 30 00:12:30 Could not connect to remote VIPAR database resource lvdondz on port 22. dbi:mysql:lvdondz:127.0.0.1:22, remoteselect, clepridros Error: Lost connection to MySQL server at 'reading initial communication packet', system error: 0
+October 30 00:12:30 Could not connect to remote VIPAR database resource test on port 22. dbi:mysql:test:127.0.0.1:22, remoteselect, clepridros Error: Lost connection to MySQL server at 'reading initial communication packet', system error: 0
+October 30 00:15:23 Checking 1 sites configured in VIPAR database
+October 30 00:15:24 Process 2844:thread 10705 checking resource via localhost:23
+October 30 00:15:24 Process 2844:thread 10706 checking resource via localhost:22
+October 30 00:15:24 Process 2844:thread 10707 checking resource via localhost:22
+October 30 00:15:27 Could not connect to remote VIPAR database resource unimuen on port 23. dbi:mysql:unimuen:127.0.0.1:23, remoteselect, clepridros Error: Lost connection to MySQL server at 'reading initial communication packet', system error: 0
+October 30 00:17:31 Could not connect to remote VIPAR database resource test on port 22. dbi:mysql:test:127.0.0.1:22, remoteselect, clepridros Error: Lost connection to MySQL server at 'reading initial communication packet', system error: 0
+October 30 00:17:31 Could not connect to remote VIPAR database resource lvdondz on port 22. dbi:mysql:lvdondz:127.0.0.1:22, remoteselect, clepridros Error: Lost connection to MySQL server at 'reading initial communication packet', system error: 0
+October 30 00:20:23 Checking 1 sites configured in VIPAR database
+October 30 00:20:23 Process 2844:thread 10708 checking resource via localhost:23
+October 30 00:20:23 Process 2844:thread 10709 checking resource via localhost:22
+October 30 00:20:23 Process 2844:thread 10710 checking resource via localhost:22
+October 30 00:20:26 Could not connect to remote VIPAR database resource unimuen on port 23. dbi:mysql:unimuen:127.0.0.1:23, remoteselect, clepridros Error: Lost connection to MySQL server at 'reading initial communication packet', system error: 0
+October 30 00:22:30 Could not connect to remote VIPAR database resource lvdondz on port 22. dbi:mysql:lvdondz:127.0.0.1:22, remoteselect, clepridros Error: Lost connection to MySQL server at 'reading initial communication packet', system error: 0
+October 30 00:22:30 Could not connect to remote VIPAR database resource test on port 22. dbi:mysql:test:127.0.0.1:22, remoteselect, clepridros Error: Lost connection to MySQL server at 'reading initial communication packet', system error: 0
+October 30 00:25:23 Checking 1 sites configured in VIPAR database
+October 30 00:25:23 Process 2844:thread 10711 checking resource via localhost:23
+October 30 00:25:23 Process 2844:thread 10712 checking resource via localhost:22
+October 30 00:25:23 Process 2844:thread 10713 checking resource via localhost:22
+October 30 00:25:26 Could not connect to remote VIPAR database resource unimuen on port 23. dbi:mysql:unimuen:127.0.0.1:23, remoteselect, clepridros Error: Lost connection to MySQL server at 'reading initial communication packet', system error: 0
+October 30 00:27:30 Could not connect to remote VIPAR database resource test on port 22. dbi:mysql:test:127.0.0.1:22, remoteselect, clepridros Error: Lost connection to MySQL server at 'reading initial communication packet', system error: 0
+October 30 00:27:30 Could not connect to remote VIPAR database resource lvdondz on port 22. dbi:mysql:lvdondz:127.0.0.1:22, remoteselect, clepridros Error: Lost connection to MySQL server at 'reading initial communication packet', system error: 0
+October 30 00:30:23 Checking 1 sites configured in VIPAR database
+October 30 00:30:23 Process 2844:thread 10714 checking resource via localhost:23
+October 30 00:30:23 Process 2844:thread 10715 checking resource via localhost:22
+October 30 00:30:23 Process 2844:thread 10716 checking resource via localhost:22
+October 30 00:30:26 Could not connect to remote VIPAR database resource unimuen on port 23. dbi:mysql:unimuen:127.0.0.1:23, remoteselect, clepridros Error: Lost connection to MySQL server at 'reading initial communication packet', system error: 0
+October 30 00:32:30 Could not connect to remote VIPAR database resource lvdondz on port 22. dbi:mysql:lvdondz:127.0.0.1:22, remoteselect, clepridros Error: Lost connection to MySQL server at 'reading initial communication packet', system error: 0
+October 30 00:32:30 Could not connect to remote VIPAR database resource test on port 22. dbi:mysql:test:127.0.0.1:22, remoteselect, clepridros Error: Lost connection to MySQL server at 'reading initial communication packet', system error: 0
+October 30 00:35:23 Checking 1 sites configured in VIPAR database
+October 30 00:35:24 Process 2844:thread 10717 checking resource via localhost:23
+October 30 00:35:24 Process 2844:thread 10718 checking resource via localhost:22
+October 30 00:35:24 Process 2844:thread 10719 checking resource via localhost:22
+October 30 00:35:27 Could not connect to remote VIPAR database resource unimuen on port 23. dbi:mysql:unimuen:127.0.0.1:23, remoteselect, clepridros Error: Lost connection to MySQL server at 'reading initial communication packet', system error: 0
+October 30 00:37:31 Could not connect to remote VIPAR database resource lvdondz on port 22. dbi:mysql:lvdondz:127.0.0.1:22, remoteselect, clepridros Error: Lost connection to MySQL server at 'reading initial communication packet', system error: 0
+October 30 00:37:31 Could not connect to remote VIPAR database resource test on port 22. dbi:mysql:test:127.0.0.1:22, remoteselect, clepridros Error: Lost connection to MySQL server at 'reading initial communication packet', system error: 0
+October 30 00:40:23 Checking 1 sites configured in VIPAR database
+October 30 00:40:23 Process 2844:thread 10720 checking resource via localhost:23
+October 30 00:40:23 Process 2844:thread 10721 checking resource via localhost:22
+October 30 00:40:23 Process 2844:thread 10722 checking resource via localhost:22
+October 30 00:40:26 Could not connect to remote VIPAR database resource unimuen on port 23. dbi:mysql:unimuen:127.0.0.1:23, remoteselect, clepridros Error: Lost connection to MySQL server at 'reading initial communication packet', system error: 0
+October 30 00:42:30 Could not connect to remote VIPAR database resource lvdondz on port 22. dbi:mysql:lvdondz:127.0.0.1:22, remoteselect, clepridros Error: Lost connection to MySQL server at 'reading initial communication packet', system error: 0
+October 30 00:42:30 Could not connect to remote VIPAR database resource test on port 22. dbi:mysql:test:127.0.0.1:22, remoteselect, clepridros Error: Lost connection to MySQL server at 'reading initial communication packet', system error: 0
+October 30 00:45:23 Checking 1 sites configured in VIPAR database
+October 30 00:45:23 Process 2844:thread 10723 checking resource via localhost:23
+October 30 00:45:23 Process 2844:thread 10724 checking resource via localhost:22
+October 30 00:45:23 Process 2844:thread 10725 checking resource via localhost:22
+October 30 00:45:26 Could not connect to remote VIPAR database resource unimuen on port 23. dbi:mysql:unimuen:127.0.0.1:23, remoteselect, clepridros Error: Lost connection to MySQL server at 'reading initial communication packet', system error: 0
+October 30 00:47:30 Could not connect to remote VIPAR database resource lvdondz on port 22. dbi:mysql:lvdondz:127.0.0.1:22, remoteselect, clepridros Error: Lost connection to MySQL server at 'reading initial communication packet', system error: 0
+October 30 00:47:30 Could not connect to remote VIPAR database resource test on port 22. dbi:mysql:test:127.0.0.1:22, remoteselect, clepridros Error: Lost connection to MySQL server at 'reading initial communication packet', system error: 0
+October 30 00:50:23 Checking 1 sites configured in VIPAR database
+October 30 00:50:23 Process 2844:thread 10726 checking resource via localhost:23
+October 30 00:50:23 Process 2844:thread 10727 checking resource via localhost:22
+October 30 00:50:23 Process 2844:thread 10728 checking resource via localhost:22
+October 30 00:50:26 Could not connect to remote VIPAR database resource unimuen on port 23. dbi:mysql:unimuen:127.0.0.1:23, remoteselect, clepridros Error: Lost connection to MySQL server at 'reading initial communication packet', system error: 0
+October 30 00:52:30 Could not connect to remote VIPAR database resource lvdondz on port 22. dbi:mysql:lvdondz:127.0.0.1:22, remoteselect, clepridros Error: Lost connection to MySQL server at 'reading initial communication packet', system error: 0
+October 30 00:52:31 Could not connect to remote VIPAR database resource test on port 22. dbi:mysql:test:127.0.0.1:22, remoteselect, clepridros Error: Lost connection to MySQL server at 'reading initial communication packet', system error: 0
+October 30 00:55:23 Checking 1 sites configured in VIPAR database
+October 30 00:55:23 Process 2844:thread 10729 checking resource via localhost:23
+October 30 00:55:23 Process 2844:thread 10730 checking resource via localhost:22
+October 30 00:55:23 Process 2844:thread 10731 checking resource via localhost:22
+October 30 00:55:26 Could not connect to remote VIPAR database resource unimuen on port 23. dbi:mysql:unimuen:127.0.0.1:23, remoteselect, clepridros Error: Lost connection to MySQL server at 'reading initial communication packet', system error: 0
+October 30 00:57:30 Could not connect to remote VIPAR database resource lvdondz on port 22. dbi:mysql:lvdondz:127.0.0.1:22, remoteselect, clepridros Error: Lost connection to MySQL server at 'reading initial communication packet', system error: 0
+October 30 00:57:30 Could not connect to remote VIPAR database resource test on port 22. dbi:mysql:test:127.0.0.1:22, remoteselect, clepridros Error: Lost connection to MySQL server at 'reading initial communication packet', system error: 0
+October 30 01:00:23 Checking 1 sites configured in VIPAR database
+October 30 01:00:23 Process 2844:thread 10732 checking resource via localhost:23
+October 30 01:00:23 Process 2844:thread 10733 checking resource via localhost:22
+October 30 01:00:23 Process 2844:thread 10734 checking resource via localhost:22
+October 30 01:00:26 Could not connect to remote VIPAR database resource unimuen on port 23. dbi:mysql:unimuen:127.0.0.1:23, remoteselect, clepridros Error: Lost connection to MySQL server at 'reading initial communication packet', system error: 0
+October 30 01:02:30 Could not connect to remote VIPAR database resource lvdondz on port 22. dbi:mysql:lvdondz:127.0.0.1:22, remoteselect, clepridros Error: Lost connection to MySQL server at 'reading initial communication packet', system error: 0
+October 30 01:02:30 Could not connect to remote VIPAR database resource test on port 22. dbi:mysql:test:127.0.0.1:22, remoteselect, clepridros Error: Lost connection to MySQL server at 'reading initial communication packet', system error: 0
+October 30 01:05:23 Checking 1 sites configured in VIPAR database
+October 30 01:05:23 Process 2844:thread 10735 checking resource via localhost:23
+October 30 01:05:23 Process 2844:thread 10736 checking resource via localhost:22
+October 30 01:05:23 Process 2844:thread 10737 checking resource via localhost:22
+October 30 01:05:26 Could not connect to remote VIPAR database resource unimuen on port 23. dbi:mysql:unimuen:127.0.0.1:23, remoteselect, clepridros Error: Lost connection to MySQL server at 'reading initial communication packet', system error: 0
+October 30 01:07:30 Could not connect to remote VIPAR database resource test on port 22. dbi:mysql:test:127.0.0.1:22, remoteselect, clepridros Error: Lost connection to MySQL server at 'reading initial communication packet', system error: 0
+October 30 01:07:30 Could not connect to remote VIPAR database resource lvdondz on port 22. dbi:mysql:lvdondz:127.0.0.1:22, remoteselect, clepridros Error: Lost connection to MySQL server at 'reading initial communication packet', system error: 0
+October 30 01:10:23 Checking 1 sites configured in VIPAR database
+October 30 01:10:23 Process 2844:thread 10738 checking resource via localhost:23
+October 30 01:10:23 Process 2844:thread 10739 checking resource via localhost:22
+October 30 01:10:23 Process 2844:thread 10740 checking resource via localhost:22
+October 30 01:10:26 Could not connect to remote VIPAR database resource unimuen on port 23. dbi:mysql:unimuen:127.0.0.1:23, remoteselect, clepridros Error: Lost connection to MySQL server at 'reading initial communication packet', system error: 0
+October 30 01:12:30 Could not connect to remote VIPAR database resource lvdondz on port 22. dbi:mysql:lvdondz:127.0.0.1:22, remoteselect, clepridros Error: Lost connection to MySQL server at 'reading initial communication packet', system error: 0
+October 30 01:12:30 Could not connect to remote VIPAR database resource test on port 22. dbi:mysql:test:127.0.0.1:22, remoteselect, clepridros Error: Lost connection to MySQL server at 'reading initial communication packet', system error: 0
+October 30 01:15:23 Checking 1 sites configured in VIPAR database
+October 30 01:15:24 Process 2844:thread 10741 checking resource via localhost:23
+October 30 01:15:24 Process 2844:thread 10742 checking resource via localhost:22
+October 30 01:15:24 Process 2844:thread 10743 checking resource via localhost:22
+October 30 01:15:27 Could not connect to remote VIPAR database resource unimuen on port 23. dbi:mysql:unimuen:127.0.0.1:23, remoteselect, clepridros Error: Lost connection to MySQL server at 'reading initial communication packet', system error: 0
+October 30 01:17:31 Could not connect to remote VIPAR database resource lvdondz on port 22. dbi:mysql:lvdondz:127.0.0.1:22, remoteselect, clepridros Error: Lost connection to MySQL server at 'reading initial communication packet', system error: 0
+October 30 01:17:31 Could not connect to remote VIPAR database resource test on port 22. dbi:mysql:test:127.0.0.1:22, remoteselect, clepridros Error: Lost connection to MySQL server at 'reading initial communication packet', system error: 0
+October 30 01:20:23 Checking 1 sites configured in VIPAR database
+October 30 01:20:23 Process 2844:thread 10744 checking resource via localhost:23
+October 30 01:20:23 Process 2844:thread 10745 checking resource via localhost:22
+October 30 01:20:23 Process 2844:thread 10746 checking resource via localhost:22
+October 30 01:20:26 Could not connect to remote VIPAR database resource unimuen on port 23. dbi:mysql:unimuen:127.0.0.1:23, remoteselect, clepridros Error: Lost connection to MySQL server at 'reading initial communication packet', system error: 0
+October 30 01:22:30 Could not connect to remote VIPAR database resource lvdondz on port 22. dbi:mysql:lvdondz:127.0.0.1:22, remoteselect, clepridros Error: Lost connection to MySQL server at 'reading initial communication packet', system error: 0
+October 30 01:22:30 Could not connect to remote VIPAR database resource test on port 22. dbi:mysql:test:127.0.0.1:22, remoteselect, clepridros Error: Lost connection to MySQL server at 'reading initial communication packet', system error: 0
+October 30 01:25:23 Checking 1 sites configured in VIPAR database
+October 30 01:25:23 Process 2844:thread 10747 checking resource via localhost:23
+October 30 01:25:24 Process 2844:thread 10748 checking resource via localhost:22
+October 30 01:25:24 Process 2844:thread 10749 checking resource via localhost:22
+October 30 01:25:26 Could not connect to remote VIPAR database resource unimuen on port 23. dbi:mysql:unimuen:127.0.0.1:23, remoteselect, clepridros Error: Lost connection to MySQL server at 'reading initial communication packet', system error: 0
+October 30 01:27:31 Could not connect to remote VIPAR database resource lvdondz on port 22. dbi:mysql:lvdondz:127.0.0.1:22, remoteselect, clepridros Error: Lost connection to MySQL server at 'reading initial communication packet', system error: 0
+October 30 01:27:31 Could not connect to remote VIPAR database resource test on port 22. dbi:mysql:test:127.0.0.1:22, remoteselect, clepridros Error: Lost connection to MySQL server at 'reading initial communication packet', system error: 0
+October 30 01:30:23 Checking 1 sites configured in VIPAR database
+October 30 01:30:23 Process 2844:thread 10750 checking resource via localhost:23
+October 30 01:30:23 Process 2844:thread 10751 checking resource via localhost:22
+October 30 01:30:23 Process 2844:thread 10752 checking resource via localhost:22
+October 30 01:30:26 Could not connect to remote VIPAR database resource unimuen on port 23. dbi:mysql:unimuen:127.0.0.1:23, remoteselect, clepridros Error: Lost connection to MySQL server at 'reading initial communication packet', system error: 0
+October 30 01:32:30 Could not connect to remote VIPAR database resource lvdondz on port 22. dbi:mysql:lvdondz:127.0.0.1:22, remoteselect, clepridros Error: Lost connection to MySQL server at 'reading initial communication packet', system error: 0
+October 30 01:32:30 Could not connect to remote VIPAR database resource test on port 22. dbi:mysql:test:127.0.0.1:22, remoteselect, clepridros Error: Lost connection to MySQL server at 'reading initial communication packet', system error: 0
+October 30 01:35:23 Checking 1 sites configured in VIPAR database
+October 30 01:35:23 Process 2844:thread 10753 checking resource via localhost:23
+October 30 01:35:23 Process 2844:thread 10754 checking resource via localhost:22
+October 30 01:35:24 Process 2844:thread 10755 checking resource via localhost:22
+October 30 01:35:26 Could not connect to remote VIPAR database resource unimuen on port 23. dbi:mysql:unimuen:127.0.0.1:23, remoteselect, clepridros Error: Lost connection to MySQL server at 'reading initial communication packet', system error: 0
+October 30 01:37:31 Could not connect to remote VIPAR database resource lvdondz on port 22. dbi:mysql:lvdondz:127.0.0.1:22, remoteselect, clepridros Error: Lost connection to MySQL server at 'reading initial communication packet', system error: 0
+October 30 01:37:31 Could not connect to remote VIPAR database resource test on port 22. dbi:mysql:test:127.0.0.1:22, remoteselect, clepridros Error: Lost connection to MySQL server at 'reading initial communication packet', system error: 0
+October 30 01:40:23 Checking 1 sites configured in VIPAR database
+October 30 01:40:23 Process 2844:thread 10756 checking resource via localhost:23
+October 30 01:40:23 Process 2844:thread 10757 checking resource via localhost:22
+October 30 01:40:23 Process 2844:thread 10758 checking resource via localhost:22
+October 30 01:40:26 Could not connect to remote VIPAR database resource unimuen on port 23. dbi:mysql:unimuen:127.0.0.1:23, remoteselect, clepridros Error: Lost connection to MySQL server at 'reading initial communication packet', system error: 0
+October 30 01:42:30 Could not connect to remote VIPAR database resource lvdondz on port 22. dbi:mysql:lvdondz:127.0.0.1:22, remoteselect, clepridros Error: Lost connection to MySQL server at 'reading initial communication packet', system error: 0
+October 30 01:42:30 Could not connect to remote VIPAR database resource test on port 22. dbi:mysql:test:127.0.0.1:22, remoteselect, clepridros Error: Lost connection to MySQL server at 'reading initial communication packet', system error: 0
+October 30 01:45:23 Checking 1 sites configured in VIPAR database
+October 30 01:45:23 Process 2844:thread 10759 checking resource via localhost:23
+October 30 01:45:24 Process 2844:thread 10760 checking resource via localhost:22
+October 30 01:45:24 Process 2844:thread 10761 checking resource via localhost:22
+October 30 01:45:26 Could not connect to remote VIPAR database resource unimuen on port 23. dbi:mysql:unimuen:127.0.0.1:23, remoteselect, clepridros Error: Lost connection to MySQL server at 'reading initial communication packet', system error: 0
+October 30 01:47:31 Could not connect to remote VIPAR database resource lvdondz on port 22. dbi:mysql:lvdondz:127.0.0.1:22, remoteselect, clepridros Error: Lost connection to MySQL server at 'reading initial communication packet', system error: 0
+October 30 01:47:31 Could not connect to remote VIPAR database resource test on port 22. dbi:mysql:test:127.0.0.1:22, remoteselect, clepridros Error: Lost connection to MySQL server at 'reading initial communication packet', system error: 0
+October 30 01:50:23 Checking 1 sites configured in VIPAR database
+October 30 01:50:23 Process 2844:thread 10762 checking resource via localhost:23
+October 30 01:50:23 Process 2844:thread 10763 checking resource via localhost:22
+October 30 01:50:23 Process 2844:thread 10764 checking resource via localhost:22
+October 30 01:50:26 Could not connect to remote VIPAR database resource unimuen on port 23. dbi:mysql:unimuen:127.0.0.1:23, remoteselect, clepridros Error: Lost connection to MySQL server at 'reading initial communication packet', system error: 0
+October 30 01:52:30 Could not connect to remote VIPAR database resource lvdondz on port 22. dbi:mysql:lvdondz:127.0.0.1:22, remoteselect, clepridros Error: Lost connection to MySQL server at 'reading initial communication packet', system error: 0
+October 30 01:52:30 Could not connect to remote VIPAR database resource test on port 22. dbi:mysql:test:127.0.0.1:22, remoteselect, clepridros Error: Lost connection to MySQL server at 'reading initial communication packet', system error: 0
+October 30 01:55:23 Checking 1 sites configured in VIPAR database
+October 30 01:55:24 Process 2844:thread 10765 checking resource via localhost:23
+October 30 01:55:24 Process 2844:thread 10766 checking resource via localhost:22
+October 30 01:55:24 Process 2844:thread 10767 checking resource via localhost:22
+October 30 01:55:27 Could not connect to remote VIPAR database resource unimuen on port 23. dbi:mysql:unimuen:127.0.0.1:23, remoteselect, clepridros Error: Lost connection to MySQL server at 'reading initial communication packet', system error: 0
+October 30 01:57:31 Could not connect to remote VIPAR database resource lvdondz on port 22. dbi:mysql:lvdondz:127.0.0.1:22, remoteselect, clepridros Error: Lost connection to MySQL server at 'reading initial communication packet', system error: 0
+October 30 01:57:31 Could not connect to remote VIPAR database resource test on port 22. dbi:mysql:test:127.0.0.1:22, remoteselect, clepridros Error: Lost connection to MySQL server at 'reading initial communication packet', system error: 0
+October 30 02:00:23 Checking 1 sites configured in VIPAR database
+October 30 02:00:23 Process 2844:thread 10768 checking resource via localhost:23
+October 30 02:00:23 Process 2844:thread 10769 checking resource via localhost:22
+October 30 02:00:23 Process 2844:thread 10770 checking resource via localhost:22
+October 30 02:00:26 Could not connect to remote VIPAR database resource unimuen on port 23. dbi:mysql:unimuen:127.0.0.1:23, remoteselect, clepridros Error: Lost connection to MySQL server at 'reading initial communication packet', system error: 0
+October 30 02:02:30 Could not connect to remote VIPAR database resource lvdondz on port 22. dbi:mysql:lvdondz:127.0.0.1:22, remoteselect, clepridros Error: Lost connection to MySQL server at 'reading initial communication packet', system error: 0
+October 30 02:02:30 Could not connect to remote VIPAR database resource test on port 22. dbi:mysql:test:127.0.0.1:22, remoteselect, clepridros Error: Lost connection to MySQL server at 'reading initial communication packet', system error: 0
+October 30 02:05:23 Checking 1 sites configured in VIPAR database
+October 30 02:05:23 Process 2844:thread 10771 checking resource via localhost:23
+October 30 02:05:24 Process 2844:thread 10772 checking resource via localhost:22
+October 30 02:05:24 Process 2844:thread 10773 checking resource via localhost:22
+October 30 02:05:26 Could not connect to remote VIPAR database resource unimuen on port 23. dbi:mysql:unimuen:127.0.0.1:23, remoteselect, clepridros Error: Lost connection to MySQL server at 'reading initial communication packet', system error: 0
+October 30 02:07:31 Could not connect to remote VIPAR database resource lvdondz on port 22. dbi:mysql:lvdondz:127.0.0.1:22, remoteselect, clepridros Error: Lost connection to MySQL server at 'reading initial communication packet', system error: 0
+October 30 02:07:31 Could not connect to remote VIPAR database resource test on port 22. dbi:mysql:test:127.0.0.1:22, remoteselect, clepridros Error: Lost connection to MySQL server at 'reading initial communication packet', system error: 0
+October 30 02:10:23 Checking 1 sites configured in VIPAR database
+October 30 02:10:23 Process 2844:thread 10774 checking resource via localhost:23
+October 30 02:10:23 Process 2844:thread 10775 checking resource via localhost:22
+October 30 02:10:23 Process 2844:thread 10776 checking resource via localhost:22
+October 30 02:10:26 Could not connect to remote VIPAR database resource unimuen on port 23. dbi:mysql:unimuen:127.0.0.1:23, remoteselect, clepridros Error: Lost connection to MySQL server at 'reading initial communication packet', system error: 0
+October 30 02:12:30 Could not connect to remote VIPAR database resource lvdondz on port 22. dbi:mysql:lvdondz:127.0.0.1:22, remoteselect, clepridros Error: Lost connection to MySQL server at 'reading initial communication packet', system error: 0
+October 30 02:12:30 Could not connect to remote VIPAR database resource test on port 22. dbi:mysql:test:127.0.0.1:22, remoteselect, clepridros Error: Lost connection to MySQL server at 'reading initial communication packet', system error: 0
+October 30 02:15:23 Checking 1 sites configured in VIPAR database
+October 30 02:15:23 Process 2844:thread 10777 checking resource via localhost:23
+October 30 02:15:23 Process 2844:thread 10778 checking resource via localhost:22
+October 30 02:15:24 Process 2844:thread 10779 checking resource via localhost:22
+October 30 02:15:26 Could not connect to remote VIPAR database resource unimuen on port 23. dbi:mysql:unimuen:127.0.0.1:23, remoteselect, clepridros Error: Lost connection to MySQL server at 'reading initial communication packet', system error: 0
+October 30 02:17:31 Could not connect to remote VIPAR database resource lvdondz on port 22. dbi:mysql:lvdondz:127.0.0.1:22, remoteselect, clepridros Error: Lost connection to MySQL server at 'reading initial communication packet', system error: 0
+October 30 02:17:31 Could not connect to remote VIPAR database resource test on port 22. dbi:mysql:test:127.0.0.1:22, remoteselect, clepridros Error: Lost connection to MySQL server at 'reading initial communication packet', system error: 0
+October 30 02:20:23 Checking 1 sites configured in VIPAR database
+October 30 02:20:23 Process 2844:thread 10780 checking resource via localhost:23
+October 30 02:20:23 Process 2844:thread 10781 checking resource via localhost:22
+October 30 02:20:23 Process 2844:thread 10782 checking resource via localhost:22
+October 30 02:20:26 Could not connect to remote VIPAR database resource unimuen on port 23. dbi:mysql:unimuen:127.0.0.1:23, remoteselect, clepridros Error: Lost connection to MySQL server at 'reading initial communication packet', system error: 0
+October 30 02:22:30 Could not connect to remote VIPAR database resource test on port 22. dbi:mysql:test:127.0.0.1:22, remoteselect, clepridros Error: Lost connection to MySQL server at 'reading initial communication packet', system error: 0
+October 30 02:22:30 Could not connect to remote VIPAR database resource lvdondz on port 22. dbi:mysql:lvdondz:127.0.0.1:22, remoteselect, clepridros Error: Lost connection to MySQL server at 'reading initial communication packet', system error: 0
+October 30 02:25:23 Checking 1 sites configured in VIPAR database
+October 30 02:25:23 Process 2844:thread 10783 checking resource via localhost:23
+October 30 02:25:24 Process 2844:thread 10784 checking resource via localhost:22
+October 30 02:25:24 Process 2844:thread 10785 checking resource via localhost:22
+October 30 02:25:27 Could not connect to remote VIPAR database resource unimuen on port 23. dbi:mysql:unimuen:127.0.0.1:23, remoteselect, clepridros Error: Lost connection to MySQL server at 'reading initial communication packet', system error: 0
+October 30 02:27:31 Could not connect to remote VIPAR database resource lvdondz on port 22. dbi:mysql:lvdondz:127.0.0.1:22, remoteselect, clepridros Error: Lost connection to MySQL server at 'reading initial communication packet', system error: 0
+October 30 02:27:31 Could not connect to remote VIPAR database resource test on port 22. dbi:mysql:test:127.0.0.1:22, remoteselect, clepridros Error: Lost connection to MySQL server at 'reading initial communication packet', system error: 0
+October 30 02:30:23 Checking 1 sites configured in VIPAR database
+October 30 02:30:23 Process 2844:thread 10786 checking resource via localhost:23
+October 30 02:30:23 Process 2844:thread 10787 checking resource via localhost:22
+October 30 02:30:23 Process 2844:thread 10788 checking resource via localhost:22
+October 30 02:30:26 Could not connect to remote VIPAR database resource unimuen on port 23. dbi:mysql:unimuen:127.0.0.1:23, remoteselect, clepridros Error: Lost connection to MySQL server at 'reading initial communication packet', system error: 0
+October 30 02:32:30 Could not connect to remote VIPAR database resource test on port 22. dbi:mysql:test:127.0.0.1:22, remoteselect, clepridros Error: Lost connection to MySQL server at 'reading initial communication packet', system error: 0
+October 30 02:32:30 Could not connect to remote VIPAR database resource lvdondz on port 22. dbi:mysql:lvdondz:127.0.0.1:22, remoteselect, clepridros Error: Lost connection to MySQL server at 'reading initial communication packet', system error: 0
+October 30 02:35:23 Checking 1 sites configured in VIPAR database
+October 30 02:35:23 Process 2844:thread 10789 checking resource via localhost:23
+October 30 02:35:23 Process 2844:thread 10790 checking resource via localhost:22
+October 30 02:35:23 Process 2844:thread 10791 checking resource via localhost:22
+October 30 02:35:26 Could not connect to remote VIPAR database resource unimuen on port 23. dbi:mysql:unimuen:127.0.0.1:23, remoteselect, clepridros Error: Lost connection to MySQL server at 'reading initial communication packet', system error: 0
+October 30 02:37:30 Could not connect to remote VIPAR database resource lvdondz on port 22. dbi:mysql:lvdondz:127.0.0.1:22, remoteselect, clepridros Error: Lost connection to MySQL server at 'reading initial communication packet', system error: 0
+October 30 02:37:30 Could not connect to remote VIPAR database resource test on port 22. dbi:mysql:test:127.0.0.1:22, remoteselect, clepridros Error: Lost connection to MySQL server at 'reading initial communication packet', system error: 0
+October 30 02:40:23 Checking 1 sites configured in VIPAR database
+October 30 02:40:23 Process 2844:thread 10792 checking resource via localhost:23
+October 30 02:40:23 Process 2844:thread 10793 checking resource via localhost:22
+October 30 02:40:23 Process 2844:thread 10794 checking resource via localhost:22
+October 30 02:40:26 Could not connect to remote VIPAR database resource unimuen on port 23. dbi:mysql:unimuen:127.0.0.1:23, remoteselect, clepridros Error: Lost connection to MySQL server at 'reading initial communication packet', system error: 0
+October 30 02:42:30 Could not connect to remote VIPAR database resource lvdondz on port 22. dbi:mysql:lvdondz:127.0.0.1:22, remoteselect, clepridros Error: Lost connection to MySQL server at 'reading initial communication packet', system error: 0
+October 30 02:42:30 Could not connect to remote VIPAR database resource test on port 22. dbi:mysql:test:127.0.0.1:22, remoteselect, clepridros Error: Lost connection to MySQL server at 'reading initial communication packet', system error: 0
+October 30 02:45:23 Checking 1 sites configured in VIPAR database
+October 30 02:45:23 Process 2844:thread 10795 checking resource via localhost:23
+October 30 02:45:23 Process 2844:thread 10796 checking resource via localhost:22
+October 30 02:45:23 Process 2844:thread 10797 checking resource via localhost:22
+October 30 02:45:26 Could not connect to remote VIPAR database resource unimuen on port 23. dbi:mysql:unimuen:127.0.0.1:23, remoteselect, clepridros Error: Lost connection to MySQL server at 'reading initial communication packet', system error: 0
+October 30 02:47:30 Could not connect to remote VIPAR database resource lvdondz on port 22. dbi:mysql:lvdondz:127.0.0.1:22, remoteselect, clepridros Error: Lost connection to MySQL server at 'reading initial communication packet', system error: 0
+October 30 02:47:30 Could not connect to remote VIPAR database resource test on port 22. dbi:mysql:test:127.0.0.1:22, remoteselect, clepridros Error: Lost connection to MySQL server at 'reading initial communication packet', system error: 0
+October 30 02:50:23 Checking 1 sites configured in VIPAR database
+October 30 02:50:23 Process 2844:thread 10798 checking resource via localhost:23
+October 30 02:50:23 Process 2844:thread 10799 checking resource via localhost:22
+October 30 02:50:23 Process 2844:thread 10800 checking resource via localhost:22
+October 30 02:50:26 Could not connect to remote VIPAR database resource unimuen on port 23. dbi:mysql:unimuen:127.0.0.1:23, remoteselect, clepridros Error: Lost connection to MySQL server at 'reading initial communication packet', system error: 0
+October 30 02:52:30 Could not connect to remote VIPAR database resource lvdondz on port 22. dbi:mysql:lvdondz:127.0.0.1:22, remoteselect, clepridros Error: Lost connection to MySQL server at 'reading initial communication packet', system error: 0
+October 30 02:52:31 Could not connect to remote VIPAR database resource test on port 22. dbi:mysql:test:127.0.0.1:22, remoteselect, clepridros Error: Lost connection to MySQL server at 'reading initial communication packet', system error: 0
+October 30 02:55:23 Checking 1 sites configured in VIPAR database
+October 30 02:55:23 Process 2844:thread 10801 checking resource via localhost:23
+October 30 02:55:23 Process 2844:thread 10802 checking resource via localhost:22
+October 30 02:55:23 Process 2844:thread 10803 checking resource via localhost:22
+October 30 02:55:26 Could not connect to remote VIPAR database resource unimuen on port 23. dbi:mysql:unimuen:127.0.0.1:23, remoteselect, clepridros Error: Lost connection to MySQL server at 'reading initial communication packet', system error: 0
+October 30 02:57:30 Could not connect to remote VIPAR database resource lvdondz on port 22. dbi:mysql:lvdondz:127.0.0.1:22, remoteselect, clepridros Error: Lost connection to MySQL server at 'reading initial communication packet', system error: 0
+October 30 02:57:30 Could not connect to remote VIPAR database resource test on port 22. dbi:mysql:test:127.0.0.1:22, remoteselect, clepridros Error: Lost connection to MySQL server at 'reading initial communication packet', system error: 0
+October 30 03:00:23 Checking 1 sites configured in VIPAR database
+October 30 03:00:23 Process 2844:thread 10804 checking resource via localhost:23
+October 30 03:00:23 Process 2844:thread 10805 checking resource via localhost:22
+October 30 03:00:23 Process 2844:thread 10806 checking resource via localhost:22
+October 30 03:00:26 Could not connect to remote VIPAR database resource unimuen on port 23. dbi:mysql:unimuen:127.0.0.1:23, remoteselect, clepridros Error: Lost connection to MySQL server at 'reading initial communication packet', system error: 0
+October 30 03:02:30 Could not connect to remote VIPAR database resource lvdondz on port 22. dbi:mysql:lvdondz:127.0.0.1:22, remoteselect, clepridros Error: Lost connection to MySQL server at 'reading initial communication packet', system error: 0
+October 30 03:02:31 Could not connect to remote VIPAR database resource test on port 22. dbi:mysql:test:127.0.0.1:22, remoteselect, clepridros Error: Lost connection to MySQL server at 'reading initial communication packet', system error: 0
+October 30 03:05:23 Checking 1 sites configured in VIPAR database
+October 30 03:05:23 Process 2844:thread 10807 checking resource via localhost:23
+October 30 03:05:23 Process 2844:thread 10808 checking resource via localhost:22
+October 30 03:05:23 Process 2844:thread 10809 checking resource via localhost:22
+October 30 03:05:26 Could not connect to remote VIPAR database resource unimuen on port 23. dbi:mysql:unimuen:127.0.0.1:23, remoteselect, clepridros Error: Lost connection to MySQL server at 'reading initial communication packet', system error: 0
+October 30 03:07:30 Could not connect to remote VIPAR database resource lvdondz on port 22. dbi:mysql:lvdondz:127.0.0.1:22, remoteselect, clepridros Error: Lost connection to MySQL server at 'reading initial communication packet', system error: 0
+October 30 03:07:30 Could not connect to remote VIPAR database resource test on port 22. dbi:mysql:test:127.0.0.1:22, remoteselect, clepridros Error: Lost connection to MySQL server at 'reading initial communication packet', system error: 0
+October 30 03:10:23 Checking 1 sites configured in VIPAR database
+October 30 03:10:23 Process 2844:thread 10810 checking resource via localhost:23
+October 30 03:10:24 Process 2844:thread 10811 checking resource via localhost:22
+October 30 03:10:24 Process 2844:thread 10812 checking resource via localhost:22
+October 30 03:10:26 Could not connect to remote VIPAR database resource unimuen on port 23. dbi:mysql:unimuen:127.0.0.1:23, remoteselect, clepridros Error: Lost connection to MySQL server at 'reading initial communication packet', system error: 0
+October 30 03:12:31 Could not connect to remote VIPAR database resource lvdondz on port 22. dbi:mysql:lvdondz:127.0.0.1:22, remoteselect, clepridros Error: Lost connection to MySQL server at 'reading initial communication packet', system error: 0
+October 30 03:12:31 Could not connect to remote VIPAR database resource test on port 22. dbi:mysql:test:127.0.0.1:22, remoteselect, clepridros Error: Lost connection to MySQL server at 'reading initial communication packet', system error: 0
+October 30 03:15:23 Checking 1 sites configured in VIPAR database
+October 30 03:15:23 Process 2844:thread 10813 checking resource via localhost:23
+October 30 03:15:23 Process 2844:thread 10814 checking resource via localhost:22
+October 30 03:15:23 Process 2844:thread 10815 checking resource via localhost:22
+October 30 03:15:26 Could not connect to remote VIPAR database resource unimuen on port 23. dbi:mysql:unimuen:127.0.0.1:23, remoteselect, clepridros Error: Lost connection to MySQL server at 'reading initial communication packet', system error: 0
+October 30 03:17:30 Could not connect to remote VIPAR database resource lvdondz on port 22. dbi:mysql:lvdondz:127.0.0.1:22, remoteselect, clepridros Error: Lost connection to MySQL server at 'reading initial communication packet', system error: 0
+October 30 03:17:30 Could not connect to remote VIPAR database resource test on port 22. dbi:mysql:test:127.0.0.1:22, remoteselect, clepridros Error: Lost connection to MySQL server at 'reading initial communication packet', system error: 0
+October 30 03:20:23 Checking 1 sites configured in VIPAR database
+October 30 03:20:23 Process 2844:thread 10816 checking resource via localhost:23
+October 30 03:20:23 Process 2844:thread 10817 checking resource via localhost:22
+October 30 03:20:23 Process 2844:thread 10818 checking resource via localhost:22
+October 30 03:20:26 Could not connect to remote VIPAR database resource unimuen on port 23. dbi:mysql:unimuen:127.0.0.1:23, remoteselect, clepridros Error: Lost connection to MySQL server at 'reading initial communication packet', system error: 0
+October 30 03:22:30 Could not connect to remote VIPAR database resource test on port 22. dbi:mysql:test:127.0.0.1:22, remoteselect, clepridros Error: Lost connection to MySQL server at 'reading initial communication packet', system error: 0
+October 30 03:22:30 Could not connect to remote VIPAR database resource lvdondz on port 22. dbi:mysql:lvdondz:127.0.0.1:22, remoteselect, clepridros Error: Lost connection to MySQL server at 'reading initial communication packet', system error: 0
+October 30 03:25:23 Checking 1 sites configured in VIPAR database
+October 30 03:25:23 Process 2844:thread 10819 checking resource via localhost:23
+October 30 03:25:23 Process 2844:thread 10820 checking resource via localhost:22
+October 30 03:25:23 Process 2844:thread 10821 checking resource via localhost:22
+October 30 03:25:26 Could not connect to remote VIPAR database resource unimuen on port 23. dbi:mysql:unimuen:127.0.0.1:23, remoteselect, clepridros Error: Lost connection to MySQL server at 'reading initial communication packet', system error: 0
+October 30 03:27:30 Could not connect to remote VIPAR database resource lvdondz on port 22. dbi:mysql:lvdondz:127.0.0.1:22, remoteselect, clepridros Error: Lost connection to MySQL server at 'reading initial communication packet', system error: 0
+October 30 03:27:31 Could not connect to remote VIPAR database resource test on port 22. dbi:mysql:test:127.0.0.1:22, remoteselect, clepridros Error: Lost connection to MySQL server at 'reading initial communication packet', system error: 0
+October 30 03:30:23 Checking 1 sites configured in VIPAR database
+October 30 03:30:23 Process 2844:thread 10822 checking resource via localhost:23
+October 30 03:30:23 Process 2844:thread 10823 checking resource via localhost:22
+October 30 03:30:23 Process 2844:thread 10824 checking resource via localhost:22
+October 30 03:30:26 Could not connect to remote VIPAR database resource unimuen on port 23. dbi:mysql:unimuen:127.0.0.1:23, remoteselect, clepridros Error: Lost connection to MySQL server at 'reading initial communication packet', system error: 0
+October 30 03:32:30 Could not connect to remote VIPAR database resource lvdondz on port 22. dbi:mysql:lvdondz:127.0.0.1:22, remoteselect, clepridros Error: Lost connection to MySQL server at 'reading initial communication packet', system error: 0
+October 30 03:32:30 Could not connect to remote VIPAR database resource test on port 22. dbi:mysql:test:127.0.0.1:22, remoteselect, clepridros Error: Lost connection to MySQL server at 'reading initial communication packet', system error: 0
+October 30 03:35:23 Checking 1 sites configured in VIPAR database
+October 30 03:35:23 Process 2844:thread 10825 checking resource via localhost:23
+October 30 03:35:23 Process 2844:thread 10826 checking resource via localhost:22
+October 30 03:35:23 Process 2844:thread 10827 checking resource via localhost:22
+October 30 03:35:26 Could not connect to remote VIPAR database resource unimuen on port 23. dbi:mysql:unimuen:127.0.0.1:23, remoteselect, clepridros Error: Lost connection to MySQL server at 'reading initial communication packet', system error: 0
+October 30 03:37:30 Could not connect to remote VIPAR database resource lvdondz on port 22. dbi:mysql:lvdondz:127.0.0.1:22, remoteselect, clepridros Error: Lost connection to MySQL server at 'reading initial communication packet', system error: 0
+October 30 03:37:31 Could not connect to remote VIPAR database resource test on port 22. dbi:mysql:test:127.0.0.1:22, remoteselect, clepridros Error: Lost connection to MySQL server at 'reading initial communication packet', system error: 0
+October 30 03:40:23 Checking 1 sites configured in VIPAR database
+October 30 03:40:24 Process 2844:thread 10828 checking resource via localhost:23
+October 30 03:40:24 Process 2844:thread 10829 checking resource via localhost:22
+October 30 03:40:24 Process 2844:thread 10830 checking resource via localhost:22
+October 30 03:40:27 Could not connect to remote VIPAR database resource unimuen on port 23. dbi:mysql:unimuen:127.0.0.1:23, remoteselect, clepridros Error: Lost connection to MySQL server at 'reading initial communication packet', system error: 0
+October 30 03:42:31 Could not connect to remote VIPAR database resource lvdondz on port 22. dbi:mysql:lvdondz:127.0.0.1:22, remoteselect, clepridros Error: Lost connection to MySQL server at 'reading initial communication packet', system error: 0
+October 30 03:42:31 Could not connect to remote VIPAR database resource test on port 22. dbi:mysql:test:127.0.0.1:22, remoteselect, clepridros Error: Lost connection to MySQL server at 'reading initial communication packet', system error: 0
+October 30 03:45:23 Checking 1 sites configured in VIPAR database
+October 30 03:45:23 Process 2844:thread 10831 checking resource via localhost:23
+October 30 03:45:23 Process 2844:thread 10832 checking resource via localhost:22
+October 30 03:45:23 Process 2844:thread 10833 checking resource via localhost:22
+October 30 03:45:26 Could not connect to remote VIPAR database resource unimuen on port 23. dbi:mysql:unimuen:127.0.0.1:23, remoteselect, clepridros Error: Lost connection to MySQL server at 'reading initial communication packet', system error: 0
+October 30 03:47:30 Could not connect to remote VIPAR database resource lvdondz on port 22. dbi:mysql:lvdondz:127.0.0.1:22, remoteselect, clepridros Error: Lost connection to MySQL server at 'reading initial communication packet', system error: 0
+October 30 03:47:30 Could not connect to remote VIPAR database resource test on port 22. dbi:mysql:test:127.0.0.1:22, remoteselect, clepridros Error: Lost connection to MySQL server at 'reading initial communication packet', system error: 0
+October 30 03:50:23 Checking 1 sites configured in VIPAR database
+October 30 03:50:23 Process 2844:thread 10834 checking resource via localhost:23
+October 30 03:50:23 Process 2844:thread 10835 checking resource via localhost:22
+October 30 03:50:23 Process 2844:thread 10836 checking resource via localhost:22
+October 30 03:50:26 Could not connect to remote VIPAR database resource unimuen on port 23. dbi:mysql:unimuen:127.0.0.1:23, remoteselect, clepridros Error: Lost connection to MySQL server at 'reading initial communication packet', system error: 0
+October 30 03:52:30 Could not connect to remote VIPAR database resource lvdondz on port 22. dbi:mysql:lvdondz:127.0.0.1:22, remoteselect, clepridros Error: Lost connection to MySQL server at 'reading initial communication packet', system error: 0
+October 30 03:52:30 Could not connect to remote VIPAR database resource test on port 22. dbi:mysql:test:127.0.0.1:22, remoteselect, clepridros Error: Lost connection to MySQL server at 'reading initial communication packet', system error: 0
+October 30 03:55:23 Checking 1 sites configured in VIPAR database
+October 30 03:55:23 Process 2844:thread 10837 checking resource via localhost:23
+October 30 03:55:23 Process 2844:thread 10838 checking resource via localhost:22
+October 30 03:55:23 Process 2844:thread 10839 checking resource via localhost:22
+October 30 03:55:26 Could not connect to remote VIPAR database resource unimuen on port 23. dbi:mysql:unimuen:127.0.0.1:23, remoteselect, clepridros Error: Lost connection to MySQL server at 'reading initial communication packet', system error: 0
+October 30 03:57:30 Could not connect to remote VIPAR database resource lvdondz on port 22. dbi:mysql:lvdondz:127.0.0.1:22, remoteselect, clepridros Error: Lost connection to MySQL server at 'reading initial communication packet', system error: 0
+October 30 03:57:31 Could not connect to remote VIPAR database resource test on port 22. dbi:mysql:test:127.0.0.1:22, remoteselect, clepridros Error: Lost connection to MySQL server at 'reading initial communication packet', system error: 0
+October 30 04:00:23 Checking 1 sites configured in VIPAR database
+October 30 04:00:23 Process 2844:thread 10840 checking resource via localhost:23
+October 30 04:00:23 Process 2844:thread 10841 checking resource via localhost:22
+October 30 04:00:23 Process 2844:thread 10842 checking resource via localhost:22
+October 30 04:00:26 Could not connect to remote VIPAR database resource unimuen on port 23. dbi:mysql:unimuen:127.0.0.1:23, remoteselect, clepridros Error: Lost connection to MySQL server at 'reading initial communication packet', system error: 0
+October 30 04:02:30 Could not connect to remote VIPAR database resource lvdondz on port 22. dbi:mysql:lvdondz:127.0.0.1:22, remoteselect, clepridros Error: Lost connection to MySQL server at 'reading initial communication packet', system error: 0
+October 30 04:02:30 Could not connect to remote VIPAR database resource test on port 22. dbi:mysql:test:127.0.0.1:22, remoteselect, clepridros Error: Lost connection to MySQL server at 'reading initial communication packet', system error: 0
+October 30 04:05:23 Checking 1 sites configured in VIPAR database
+October 30 04:05:23 Process 2844:thread 10843 checking resource via localhost:23
+October 30 04:05:23 Process 2844:thread 10844 checking resource via localhost:22
+October 30 04:05:23 Process 2844:thread 10845 checking resource via localhost:22
+October 30 04:05:26 Could not connect to remote VIPAR database resource unimuen on port 23. dbi:mysql:unimuen:127.0.0.1:23, remoteselect, clepridros Error: Lost connection to MySQL server at 'reading initial communication packet', system error: 0
+October 30 04:07:31 Could not connect to remote VIPAR database resource test on port 22. dbi:mysql:test:127.0.0.1:22, remoteselect, clepridros Error: Lost connection to MySQL server at 'reading initial communication packet', system error: 0
+October 30 04:07:31 Could not connect to remote VIPAR database resource lvdondz on port 22. dbi:mysql:lvdondz:127.0.0.1:22, remoteselect, clepridros Error: Lost connection to MySQL server at 'reading initial communication packet', system error: 0
+October 30 04:10:23 Checking 1 sites configured in VIPAR database
+October 30 04:10:23 Process 2844:thread 10846 checking resource via localhost:23
+October 30 04:10:23 Process 2844:thread 10847 checking resource via localhost:22
+October 30 04:10:23 Process 2844:thread 10848 checking resource via localhost:22
+October 30 04:10:26 Could not connect to remote VIPAR database resource unimuen on port 23. dbi:mysql:unimuen:127.0.0.1:23, remoteselect, clepridros Error: Lost connection to MySQL server at 'reading initial communication packet', system error: 0
+October 30 04:12:30 Could not connect to remote VIPAR database resource lvdondz on port 22. dbi:mysql:lvdondz:127.0.0.1:22, remoteselect, clepridros Error: Lost connection to MySQL server at 'reading initial communication packet', system error: 0
+October 30 04:12:30 Could not connect to remote VIPAR database resource test on port 22. dbi:mysql:test:127.0.0.1:22, remoteselect, clepridros Error: Lost connection to MySQL server at 'reading initial communication packet', system error: 0
+October 30 04:15:23 Checking 1 sites configured in VIPAR database
+October 30 04:15:23 Process 2844:thread 10849 checking resource via localhost:23
+October 30 04:15:23 Process 2844:thread 10850 checking resource via localhost:22
+October 30 04:15:23 Process 2844:thread 10851 checking resource via localhost:22
+October 30 04:15:26 Could not connect to remote VIPAR database resource unimuen on port 23. dbi:mysql:unimuen:127.0.0.1:23, remoteselect, clepridros Error: Lost connection to MySQL server at 'reading initial communication packet', system error: 0
+October 30 04:17:31 Could not connect to remote VIPAR database resource lvdondz on port 22. dbi:mysql:lvdondz:127.0.0.1:22, remoteselect, clepridros Error: Lost connection to MySQL server at 'reading initial communication packet', system error: 0
+October 30 04:17:31 Could not connect to remote VIPAR database resource test on port 22. dbi:mysql:test:127.0.0.1:22, remoteselect, clepridros Error: Lost connection to MySQL server at 'reading initial communication packet', system error: 0
+October 30 04:20:23 Checking 1 sites configured in VIPAR database
+October 30 04:20:23 Process 2844:thread 10852 checking resource via localhost:23
+October 30 04:20:23 Process 2844:thread 10853 checking resource via localhost:22
+October 30 04:20:23 Process 2844:thread 10854 checking resource via localhost:22
+October 30 04:20:26 Could not connect to remote VIPAR database resource unimuen on port 23. dbi:mysql:unimuen:127.0.0.1:23, remoteselect, clepridros Error: Lost connection to MySQL server at 'reading initial communication packet', system error: 0
+October 30 04:22:30 Could not connect to remote VIPAR database resource test on port 22. dbi:mysql:test:127.0.0.1:22, remoteselect, clepridros Error: Lost connection to MySQL server at 'reading initial communication packet', system error: 0
+October 30 04:22:30 Could not connect to remote VIPAR database resource lvdondz on port 22. dbi:mysql:lvdondz:127.0.0.1:22, remoteselect, clepridros Error: Lost connection to MySQL server at 'reading initial communication packet', system error: 0
+October 30 04:25:23 Checking 1 sites configured in VIPAR database
+October 30 04:25:23 Process 2844:thread 10855 checking resource via localhost:23
+October 30 04:25:23 Process 2844:thread 10856 checking resource via localhost:22
+October 30 04:25:23 Process 2844:thread 10857 checking resource via localhost:22
+October 30 04:25:26 Could not connect to remote VIPAR database resource unimuen on port 23. dbi:mysql:unimuen:127.0.0.1:23, remoteselect, clepridros Error: Lost connection to MySQL server at 'reading initial communication packet', system error: 0
+October 30 04:27:31 Could not connect to remote VIPAR database resource lvdondz on port 22. dbi:mysql:lvdondz:127.0.0.1:22, remoteselect, clepridros Error: Lost connection to MySQL server at 'reading initial communication packet', system error: 0
+October 30 04:27:31 Could not connect to remote VIPAR database resource test on port 22. dbi:mysql:test:127.0.0.1:22, remoteselect, clepridros Error: Lost connection to MySQL server at 'reading initial communication packet', system error: 0
+October 30 04:30:23 Checking 1 sites configured in VIPAR database
+October 30 04:30:23 Process 2844:thread 10858 checking resource via localhost:23
+October 30 04:30:23 Process 2844:thread 10859 checking resource via localhost:22
+October 30 04:30:23 Process 2844:thread 10860 checking resource via localhost:22
+October 30 04:30:26 Could not connect to remote VIPAR database resource unimuen on port 23. dbi:mysql:unimuen:127.0.0.1:23, remoteselect, clepridros Error: Lost connection to MySQL server at 'reading initial communication packet', system error: 0
+October 30 04:32:30 Could not connect to remote VIPAR database resource lvdondz on port 22. dbi:mysql:lvdondz:127.0.0.1:22, remoteselect, clepridros Error: Lost connection to MySQL server at 'reading initial communication packet', system error: 0
+October 30 04:32:30 Could not connect to remote VIPAR database resource test on port 22. dbi:mysql:test:127.0.0.1:22, remoteselect, clepridros Error: Lost connection to MySQL server at 'reading initial communication packet', system error: 0
+October 30 04:35:23 Checking 1 sites configured in VIPAR database
+October 30 04:35:23 Process 2844:thread 10861 checking resource via localhost:23
+October 30 04:35:23 Process 2844:thread 10862 checking resource via localhost:22
+October 30 04:35:23 Process 2844:thread 10863 checking resource via localhost:22
+October 30 04:35:26 Could not connect to remote VIPAR database resource unimuen on port 23. dbi:mysql:unimuen:127.0.0.1:23, remoteselect, clepridros Error: Lost connection to MySQL server at 'reading initial communication packet', system error: 0
+October 30 04:37:30 Could not connect to remote VIPAR database resource lvdondz on port 22. dbi:mysql:lvdondz:127.0.0.1:22, remoteselect, clepridros Error: Lost connection to MySQL server at 'reading initial communication packet', system error: 0
+October 30 04:37:31 Could not connect to remote VIPAR database resource test on port 22. dbi:mysql:test:127.0.0.1:22, remoteselect, clepridros Error: Lost connection to MySQL server at 'reading initial communication packet', system error: 0
+October 30 04:40:23 Checking 1 sites configured in VIPAR database
+October 30 04:40:23 Process 2844:thread 10864 checking resource via localhost:23
+October 30 04:40:23 Process 2844:thread 10865 checking resource via localhost:22
+October 30 04:40:23 Process 2844:thread 10866 checking resource via localhost:22
+October 30 04:40:26 Could not connect to remote VIPAR database resource unimuen on port 23. dbi:mysql:unimuen:127.0.0.1:23, remoteselect, clepridros Error: Lost connection to MySQL server at 'reading initial communication packet', system error: 0
+October 30 04:42:30 Could not connect to remote VIPAR database resource lvdondz on port 22. dbi:mysql:lvdondz:127.0.0.1:22, remoteselect, clepridros Error: Lost connection to MySQL server at 'reading initial communication packet', system error: 0
+October 30 04:42:30 Could not connect to remote VIPAR database resource test on port 22. dbi:mysql:test:127.0.0.1:22, remoteselect, clepridros Error: Lost connection to MySQL server at 'reading initial communication packet', system error: 0
+October 30 04:45:23 Checking 1 sites configured in VIPAR database
+October 30 04:45:23 Process 2844:thread 10867 checking resource via localhost:23
+October 30 04:45:23 Process 2844:thread 10868 checking resource via localhost:22
+October 30 04:45:23 Process 2844:thread 10869 checking resource via localhost:22
+October 30 04:45:26 Could not connect to remote VIPAR database resource unimuen on port 23. dbi:mysql:unimuen:127.0.0.1:23, remoteselect, clepridros Error: Lost connection to MySQL server at 'reading initial communication packet', system error: 0
+October 30 04:47:30 Could not connect to remote VIPAR database resource lvdondz on port 22. dbi:mysql:lvdondz:127.0.0.1:22, remoteselect, clepridros Error: Lost connection to MySQL server at 'reading initial communication packet', system error: 0
+October 30 04:47:31 Could not connect to remote VIPAR database resource test on port 22. dbi:mysql:test:127.0.0.1:22, remoteselect, clepridros Error: Lost connection to MySQL server at 'reading initial communication packet', system error: 0
+October 30 04:50:23 Checking 1 sites configured in VIPAR database
+October 30 04:50:23 Process 2844:thread 10870 checking resource via localhost:23
+October 30 04:50:23 Process 2844:thread 10871 checking resource via localhost:22
+October 30 04:50:23 Process 2844:thread 10872 checking resource via localhost:22
+October 30 04:50:26 Could not connect to remote VIPAR database resource unimuen on port 23. dbi:mysql:unimuen:127.0.0.1:23, remoteselect, clepridros Error: Lost connection to MySQL server at 'reading initial communication packet', system error: 0
+October 30 04:52:30 Could not connect to remote VIPAR database resource test on port 22. dbi:mysql:test:127.0.0.1:22, remoteselect, clepridros Error: Lost connection to MySQL server at 'reading initial communication packet', system error: 0
+October 30 04:52:30 Could not connect to remote VIPAR database resource lvdondz on port 22. dbi:mysql:lvdondz:127.0.0.1:22, remoteselect, clepridros Error: Lost connection to MySQL server at 'reading initial communication packet', system error: 0
+October 30 04:55:23 Checking 1 sites configured in VIPAR database
+October 30 04:55:23 Process 2844:thread 10873 checking resource via localhost:23
+October 30 04:55:23 Process 2844:thread 10874 checking resource via localhost:22
+October 30 04:55:23 Process 2844:thread 10875 checking resource via localhost:22
+October 30 04:55:26 Could not connect to remote VIPAR database resource unimuen on port 23. dbi:mysql:unimuen:127.0.0.1:23, remoteselect, clepridros Error: Lost connection to MySQL server at 'reading initial communication packet', system error: 0
+October 30 04:57:30 Could not connect to remote VIPAR database resource lvdondz on port 22. dbi:mysql:lvdondz:127.0.0.1:22, remoteselect, clepridros Error: Lost connection to MySQL server at 'reading initial communication packet', system error: 0
+October 30 04:57:31 Could not connect to remote VIPAR database resource test on port 22. dbi:mysql:test:127.0.0.1:22, remoteselect, clepridros Error: Lost connection to MySQL server at 'reading initial communication packet', system error: 0
+October 30 05:00:23 Checking 1 sites configured in VIPAR database
+October 30 05:00:23 Process 2844:thread 10876 checking resource via localhost:23
+October 30 05:00:23 Process 2844:thread 10877 checking resource via localhost:22
+October 30 05:00:23 Process 2844:thread 10878 checking resource via localhost:22
+October 30 05:00:26 Could not connect to remote VIPAR database resource unimuen on port 23. dbi:mysql:unimuen:127.0.0.1:23, remoteselect, clepridros Error: Lost connection to MySQL server at 'reading initial communication packet', system error: 0
+October 30 05:02:30 Could not connect to remote VIPAR database resource lvdondz on port 22. dbi:mysql:lvdondz:127.0.0.1:22, remoteselect, clepridros Error: Lost connection to MySQL server at 'reading initial communication packet', system error: 0
+October 30 05:02:30 Could not connect to remote VIPAR database resource test on port 22. dbi:mysql:test:127.0.0.1:22, remoteselect, clepridros Error: Lost connection to MySQL server at 'reading initial communication packet', system error: 0
+October 30 05:05:23 Checking 1 sites configured in VIPAR database
+October 30 05:05:23 Process 2844:thread 10879 checking resource via localhost:23
+October 30 05:05:23 Process 2844:thread 10880 checking resource via localhost:22
+October 30 05:05:23 Process 2844:thread 10881 checking resource via localhost:22
+October 30 05:05:26 Could not connect to remote VIPAR database resource unimuen on port 23. dbi:mysql:unimuen:127.0.0.1:23, remoteselect, clepridros Error: Lost connection to MySQL server at 'reading initial communication packet', system error: 0
+October 30 05:07:31 Could not connect to remote VIPAR database resource test on port 22. dbi:mysql:test:127.0.0.1:22, remoteselect, clepridros Error: Lost connection to MySQL server at 'reading initial communication packet', system error: 0
+October 30 05:07:31 Could not connect to remote VIPAR database resource lvdondz on port 22. dbi:mysql:lvdondz:127.0.0.1:22, remoteselect, clepridros Error: Lost connection to MySQL server at 'reading initial communication packet', system error: 0
+October 30 05:10:23 Checking 1 sites configured in VIPAR database
+October 30 05:10:23 Process 2844:thread 10882 checking resource via localhost:23
+October 30 05:10:23 Process 2844:thread 10883 checking resource via localhost:22
+October 30 05:10:23 Process 2844:thread 10884 checking resource via localhost:22
+October 30 05:10:26 Could not connect to remote VIPAR database resource unimuen on port 23. dbi:mysql:unimuen:127.0.0.1:23, remoteselect, clepridros Error: Lost connection to MySQL server at 'reading initial communication packet', system error: 0
+October 30 05:12:30 Could not connect to remote VIPAR database resource lvdondz on port 22. dbi:mysql:lvdondz:127.0.0.1:22, remoteselect, clepridros Error: Lost connection to MySQL server at 'reading initial communication packet', system error: 0
+October 30 05:12:30 Could not connect to remote VIPAR database resource test on port 22. dbi:mysql:test:127.0.0.1:22, remoteselect, clepridros Error: Lost connection to MySQL server at 'reading initial communication packet', system error: 0
+October 30 05:15:23 Checking 1 sites configured in VIPAR database
+October 30 05:15:23 Process 2844:thread 10885 checking resource via localhost:23
+October 30 05:15:23 Process 2844:thread 10886 checking resource via localhost:22
+October 30 05:15:23 Process 2844:thread 10887 checking resource via localhost:22
+October 30 05:15:26 Could not connect to remote VIPAR database resource unimuen on port 23. dbi:mysql:unimuen:127.0.0.1:23, remoteselect, clepridros Error: Lost connection to MySQL server at 'reading initial communication packet', system error: 0
+October 30 05:17:30 Could not connect to remote VIPAR database resource lvdondz on port 22. dbi:mysql:lvdondz:127.0.0.1:22, remoteselect, clepridros Error: Lost connection to MySQL server at 'reading initial communication packet', system error: 0
+October 30 05:17:30 Could not connect to remote VIPAR database resource test on port 22. dbi:mysql:test:127.0.0.1:22, remoteselect, clepridros Error: Lost connection to MySQL server at 'reading initial communication packet', system error: 0
+October 30 05:20:23 Checking 1 sites configured in VIPAR database
+October 30 05:20:23 Process 2844:thread 10888 checking resource via localhost:23
+October 30 05:20:23 Process 2844:thread 10889 checking resource via localhost:22
+October 30 05:20:23 Process 2844:thread 10890 checking resource via localhost:22
+October 30 05:20:26 Could not connect to remote VIPAR database resource unimuen on port 23. dbi:mysql:unimuen:127.0.0.1:23, remoteselect, clepridros Error: Lost connection to MySQL server at 'reading initial communication packet', system error: 0
+October 30 05:22:30 Could not connect to remote VIPAR database resource test on port 22. dbi:mysql:test:127.0.0.1:22, remoteselect, clepridros Error: Lost connection to MySQL server at 'reading initial communication packet', system error: 0
+October 30 05:22:30 Could not connect to remote VIPAR database resource lvdondz on port 22. dbi:mysql:lvdondz:127.0.0.1:22, remoteselect, clepridros Error: Lost connection to MySQL server at 'reading initial communication packet', system error: 0
+October 30 05:25:23 Checking 1 sites configured in VIPAR database
+October 30 05:25:23 Process 2844:thread 10891 checking resource via localhost:23
+October 30 05:25:23 Process 2844:thread 10892 checking resource via localhost:22
+October 30 05:25:23 Process 2844:thread 10893 checking resource via localhost:22
+October 30 05:25:26 Could not connect to remote VIPAR database resource unimuen on port 23. dbi:mysql:unimuen:127.0.0.1:23, remoteselect, clepridros Error: Lost connection to MySQL server at 'reading initial communication packet', system error: 0
+October 30 05:27:30 Could not connect to remote VIPAR database resource lvdondz on port 22. dbi:mysql:lvdondz:127.0.0.1:22, remoteselect, clepridros Error: Lost connection to MySQL server at 'reading initial communication packet', system error: 0
+October 30 05:27:31 Could not connect to remote VIPAR database resource test on port 22. dbi:mysql:test:127.0.0.1:22, remoteselect, clepridros Error: Lost connection to MySQL server at 'reading initial communication packet', system error: 0
+October 30 05:30:23 Checking 1 sites configured in VIPAR database
+October 30 05:30:23 Process 2844:thread 10894 checking resource via localhost:23
+October 30 05:30:23 Process 2844:thread 10895 checking resource via localhost:22
+October 30 05:30:23 Process 2844:thread 10896 checking resource via localhost:22
+October 30 05:30:26 Could not connect to remote VIPAR database resource unimuen on port 23. dbi:mysql:unimuen:127.0.0.1:23, remoteselect, clepridros Error: Lost connection to MySQL server at 'reading initial communication packet', system error: 0
+October 30 05:32:30 Could not connect to remote VIPAR database resource lvdondz on port 22. dbi:mysql:lvdondz:127.0.0.1:22, remoteselect, clepridros Error: Lost connection to MySQL server at 'reading initial communication packet', system error: 0
+October 30 05:32:30 Could not connect to remote VIPAR database resource test on port 22. dbi:mysql:test:127.0.0.1:22, remoteselect, clepridros Error: Lost connection to MySQL server at 'reading initial communication packet', system error: 0
+October 30 05:35:23 Checking 1 sites configured in VIPAR database
+October 30 05:35:23 Process 2844:thread 10897 checking resource via localhost:23
+October 30 05:35:23 Process 2844:thread 10898 checking resource via localhost:22
+October 30 05:35:23 Process 2844:thread 10899 checking resource via localhost:22
+October 30 05:35:26 Could not connect to remote VIPAR database resource unimuen on port 23. dbi:mysql:unimuen:127.0.0.1:23, remoteselect, clepridros Error: Lost connection to MySQL server at 'reading initial communication packet', system error: 0
+October 30 05:37:31 Could not connect to remote VIPAR database resource lvdondz on port 22. dbi:mysql:lvdondz:127.0.0.1:22, remoteselect, clepridros Error: Lost connection to MySQL server at 'reading initial communication packet', system error: 0
+October 30 05:37:31 Could not connect to remote VIPAR database resource test on port 22. dbi:mysql:test:127.0.0.1:22, remoteselect, clepridros Error: Lost connection to MySQL server at 'reading initial communication packet', system error: 0
+October 30 05:40:23 Checking 1 sites configured in VIPAR database
+October 30 05:40:23 Process 2844:thread 10900 checking resource via localhost:23
+October 30 05:40:23 Process 2844:thread 10901 checking resource via localhost:22
+October 30 05:40:23 Process 2844:thread 10902 checking resource via localhost:22
+October 30 05:40:26 Could not connect to remote VIPAR database resource unimuen on port 23. dbi:mysql:unimuen:127.0.0.1:23, remoteselect, clepridros Error: Lost connection to MySQL server at 'reading initial communication packet', system error: 0
+October 30 05:42:30 Could not connect to remote VIPAR database resource lvdondz on port 22. dbi:mysql:lvdondz:127.0.0.1:22, remoteselect, clepridros Error: Lost connection to MySQL server at 'reading initial communication packet', system error: 0
+October 30 05:42:30 Could not connect to remote VIPAR database resource test on port 22. dbi:mysql:test:127.0.0.1:22, remoteselect, clepridros Error: Lost connection to MySQL server at 'reading initial communication packet', system error: 0
+October 30 05:45:23 Checking 1 sites configured in VIPAR database
+October 30 05:45:23 Process 2844:thread 10903 checking resource via localhost:23
+October 30 05:45:23 Process 2844:thread 10904 checking resource via localhost:22
+October 30 05:45:23 Process 2844:thread 10905 checking resource via localhost:22
+October 30 05:45:26 Could not connect to remote VIPAR database resource unimuen on port 23. dbi:mysql:unimuen:127.0.0.1:23, remoteselect, clepridros Error: Lost connection to MySQL server at 'reading initial communication packet', system error: 0
+October 30 05:47:31 Could not connect to remote VIPAR database resource test on port 22. dbi:mysql:test:127.0.0.1:22, remoteselect, clepridros Error: Lost connection to MySQL server at 'reading initial communication packet', system error: 0
+October 30 05:47:31 Could not connect to remote VIPAR database resource lvdondz on port 22. dbi:mysql:lvdondz:127.0.0.1:22, remoteselect, clepridros Error: Lost connection to MySQL server at 'reading initial communication packet', system error: 0
+October 30 05:50:23 Checking 1 sites configured in VIPAR database
+October 30 05:50:23 Process 2844:thread 10906 checking resource via localhost:23
+October 30 05:50:23 Process 2844:thread 10907 checking resource via localhost:22
+October 30 05:50:23 Process 2844:thread 10908 checking resource via localhost:22
+October 30 05:50:26 Could not connect to remote VIPAR database resource unimuen on port 23. dbi:mysql:unimuen:127.0.0.1:23, remoteselect, clepridros Error: Lost connection to MySQL server at 'reading initial communication packet', system error: 0
+October 30 05:52:30 Could not connect to remote VIPAR database resource lvdondz on port 22. dbi:mysql:lvdondz:127.0.0.1:22, remoteselect, clepridros Error: Lost connection to MySQL server at 'reading initial communication packet', system error: 0
+October 30 05:52:30 Could not connect to remote VIPAR database resource test on port 22. dbi:mysql:test:127.0.0.1:22, remoteselect, clepridros Error: Lost connection to MySQL server at 'reading initial communication packet', system error: 0
+October 30 05:55:23 Checking 1 sites configured in VIPAR database
+October 30 05:55:23 Process 2844:thread 10909 checking resource via localhost:23
+October 30 05:55:23 Process 2844:thread 10910 checking resource via localhost:22
+October 30 05:55:23 Process 2844:thread 10911 checking resource via localhost:22
+October 30 05:55:26 Could not connect to remote VIPAR database resource unimuen on port 23. dbi:mysql:unimuen:127.0.0.1:23, remoteselect, clepridros Error: Lost connection to MySQL server at 'reading initial communication packet', system error: 0
+October 30 05:57:30 Could not connect to remote VIPAR database resource test on port 22. dbi:mysql:test:127.0.0.1:22, remoteselect, clepridros Error: Lost connection to MySQL server at 'reading initial communication packet', system error: 0
+October 30 05:57:30 Could not connect to remote VIPAR database resource lvdondz on port 22. dbi:mysql:lvdondz:127.0.0.1:22, remoteselect, clepridros Error: Lost connection to MySQL server at 'reading initial communication packet', system error: 0
+October 30 06:00:23 Checking 1 sites configured in VIPAR database
+October 30 06:00:23 Process 2844:thread 10912 checking resource via localhost:23
+October 30 06:00:23 Process 2844:thread 10913 checking resource via localhost:22
+October 30 06:00:23 Process 2844:thread 10914 checking resource via localhost:22
+October 30 06:00:26 Could not connect to remote VIPAR database resource unimuen on port 23. dbi:mysql:unimuen:127.0.0.1:23, remoteselect, clepridros Error: Lost connection to MySQL server at 'reading initial communication packet', system error: 0
+October 30 06:02:30 Could not connect to remote VIPAR database resource lvdondz on port 22. dbi:mysql:lvdondz:127.0.0.1:22, remoteselect, clepridros Error: Lost connection to MySQL server at 'reading initial communication packet', system error: 0
+October 30 06:02:30 Could not connect to remote VIPAR database resource test on port 22. dbi:mysql:test:127.0.0.1:22, remoteselect, clepridros Error: Lost connection to MySQL server at 'reading initial communication packet', system error: 0
+October 30 06:05:23 Checking 1 sites configured in VIPAR database
+October 30 06:05:23 Process 2844:thread 10915 checking resource via localhost:23
+October 30 06:05:23 Process 2844:thread 10916 checking resource via localhost:22
+October 30 06:05:23 Process 2844:thread 10917 checking resource via localhost:22
+October 30 06:05:26 Could not connect to remote VIPAR database resource unimuen on port 23. dbi:mysql:unimuen:127.0.0.1:23, remoteselect, clepridros Error: Lost connection to MySQL server at 'reading initial communication packet', system error: 0
+October 30 06:07:30 Could not connect to remote VIPAR database resource lvdondz on port 22. dbi:mysql:lvdondz:127.0.0.1:22, remoteselect, clepridros Error: Lost connection to MySQL server at 'reading initial communication packet', system error: 0
+October 30 06:07:31 Could not connect to remote VIPAR database resource test on port 22. dbi:mysql:test:127.0.0.1:22, remoteselect, clepridros Error: Lost connection to MySQL server at 'reading initial communication packet', system error: 0
+October 30 06:10:23 Checking 1 sites configured in VIPAR database
+October 30 06:10:23 Process 2844:thread 10918 checking resource via localhost:23
+October 30 06:10:23 Process 2844:thread 10919 checking resource via localhost:22
+October 30 06:10:23 Process 2844:thread 10920 checking resource via localhost:22
+October 30 06:10:26 Could not connect to remote VIPAR database resource unimuen on port 23. dbi:mysql:unimuen:127.0.0.1:23, remoteselect, clepridros Error: Lost connection to MySQL server at 'reading initial communication packet', system error: 0
+October 30 06:12:30 Could not connect to remote VIPAR database resource lvdondz on port 22. dbi:mysql:lvdondz:127.0.0.1:22, remoteselect, clepridros Error: Lost connection to MySQL server at 'reading initial communication packet', system error: 0
+October 30 06:12:30 Could not connect to remote VIPAR database resource test on port 22. dbi:mysql:test:127.0.0.1:22, remoteselect, clepridros Error: Lost connection to MySQL server at 'reading initial communication packet', system error: 0
+October 30 06:15:23 Checking 1 sites configured in VIPAR database
+October 30 06:15:23 Process 2844:thread 10921 checking resource via localhost:23
+October 30 06:15:23 Process 2844:thread 10922 checking resource via localhost:22
+October 30 06:15:23 Process 2844:thread 10923 checking resource via localhost:22
+October 30 06:15:26 Could not connect to remote VIPAR database resource unimuen on port 23. dbi:mysql:unimuen:127.0.0.1:23, remoteselect, clepridros Error: Lost connection to MySQL server at 'reading initial communication packet', system error: 0
+October 30 06:17:30 Could not connect to remote VIPAR database resource lvdondz on port 22. dbi:mysql:lvdondz:127.0.0.1:22, remoteselect, clepridros Error: Lost connection to MySQL server at 'reading initial communication packet', system error: 0
+October 30 06:17:30 Could not connect to remote VIPAR database resource test on port 22. dbi:mysql:test:127.0.0.1:22, remoteselect, clepridros Error: Lost connection to MySQL server at 'reading initial communication packet', system error: 0
+October 30 06:20:23 Checking 1 sites configured in VIPAR database
+October 30 06:20:23 Process 2844:thread 10924 checking resource via localhost:23
+October 30 06:20:24 Process 2844:thread 10925 checking resource via localhost:22
+October 30 06:20:24 Process 2844:thread 10926 checking resource via localhost:22
+October 30 06:20:26 Could not connect to remote VIPAR database resource unimuen on port 23. dbi:mysql:unimuen:127.0.0.1:23, remoteselect, clepridros Error: Lost connection to MySQL server at 'reading initial communication packet', system error: 0
+October 30 06:22:31 Could not connect to remote VIPAR database resource test on port 22. dbi:mysql:test:127.0.0.1:22, remoteselect, clepridros Error: Lost connection to MySQL server at 'reading initial communication packet', system error: 0
+October 30 06:22:31 Could not connect to remote VIPAR database resource lvdondz on port 22. dbi:mysql:lvdondz:127.0.0.1:22, remoteselect, clepridros Error: Lost connection to MySQL server at 'reading initial communication packet', system error: 0
+October 30 06:25:23 Checking 1 sites configured in VIPAR database
+October 30 06:25:23 Process 2844:thread 10927 checking resource via localhost:23
+October 30 06:25:23 Process 2844:thread 10928 checking resource via localhost:22
+October 30 06:25:23 Process 2844:thread 10929 checking resource via localhost:22
+October 30 06:25:26 Could not connect to remote VIPAR database resource unimuen on port 23. dbi:mysql:unimuen:127.0.0.1:23, remoteselect, clepridros Error: Lost connection to MySQL server at 'reading initial communication packet', system error: 0
+October 30 06:27:30 Could not connect to remote VIPAR database resource test on port 22. dbi:mysql:test:127.0.0.1:22, remoteselect, clepridros Error: Lost connection to MySQL server at 'reading initial communication packet', system error: 0
+October 30 06:27:30 Could not connect to remote VIPAR database resource lvdondz on port 22. dbi:mysql:lvdondz:127.0.0.1:22, remoteselect, clepridros Error: Lost connection to MySQL server at 'reading initial communication packet', system error: 0
+October 30 06:30:23 Checking 1 sites configured in VIPAR database
+October 30 06:30:24 Process 2844:thread 10930 checking resource via localhost:23
+October 30 06:30:24 Process 2844:thread 10931 checking resource via localhost:22
+October 30 06:30:24 Process 2844:thread 10932 checking resource via localhost:22
+October 30 06:30:27 Could not connect to remote VIPAR database resource unimuen on port 23. dbi:mysql:unimuen:127.0.0.1:23, remoteselect, clepridros Error: Lost connection to MySQL server at 'reading initial communication packet', system error: 0
+October 30 06:32:31 Could not connect to remote VIPAR database resource lvdondz on port 22. dbi:mysql:lvdondz:127.0.0.1:22, remoteselect, clepridros Error: Lost connection to MySQL server at 'reading initial communication packet', system error: 0
+October 30 06:32:31 Could not connect to remote VIPAR database resource test on port 22. dbi:mysql:test:127.0.0.1:22, remoteselect, clepridros Error: Lost connection to MySQL server at 'reading initial communication packet', system error: 0
+October 30 06:35:23 Checking 1 sites configured in VIPAR database
+October 30 06:35:23 Process 2844:thread 10933 checking resource via localhost:23
+October 30 06:35:23 Process 2844:thread 10934 checking resource via localhost:22
+October 30 06:35:23 Process 2844:thread 10935 checking resource via localhost:22
+October 30 06:35:26 Could not connect to remote VIPAR database resource unimuen on port 23. dbi:mysql:unimuen:127.0.0.1:23, remoteselect, clepridros Error: Lost connection to MySQL server at 'reading initial communication packet', system error: 0
+October 30 06:37:30 Could not connect to remote VIPAR database resource lvdondz on port 22. dbi:mysql:lvdondz:127.0.0.1:22, remoteselect, clepridros Error: Lost connection to MySQL server at 'reading initial communication packet', system error: 0
+October 30 06:37:30 Could not connect to remote VIPAR database resource test on port 22. dbi:mysql:test:127.0.0.1:22, remoteselect, clepridros Error: Lost connection to MySQL server at 'reading initial communication packet', system error: 0
+October 30 06:40:23 Checking 1 sites configured in VIPAR database
+October 30 06:40:23 Process 2844:thread 10936 checking resource via localhost:23
+October 30 06:40:23 Process 2844:thread 10937 checking resource via localhost:22
+October 30 06:40:23 Process 2844:thread 10938 checking resource via localhost:22
+October 30 06:40:26 Could not connect to remote VIPAR database resource unimuen on port 23. dbi:mysql:unimuen:127.0.0.1:23, remoteselect, clepridros Error: Lost connection to MySQL server at 'reading initial communication packet', system error: 0
+October 30 06:42:30 Could not connect to remote VIPAR database resource test on port 22. dbi:mysql:test:127.0.0.1:22, remoteselect, clepridros Error: Lost connection to MySQL server at 'reading initial communication packet', system error: 0
+October 30 06:42:30 Could not connect to remote VIPAR database resource lvdondz on port 22. dbi:mysql:lvdondz:127.0.0.1:22, remoteselect, clepridros Error: Lost connection to MySQL server at 'reading initial communication packet', system error: 0

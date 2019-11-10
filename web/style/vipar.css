@@ -1,0 +1,295 @@
+.collapsibleList li{
+  list-style-image:url('/viparimages/button.png');
+  cursor:auto;
+}
+
+li.collapsibleListOpen{
+  list-style-image:url('/viparimages/button-open.png');
+  cursor:pointer;
+}
+
+li.collapsibleListClosed{
+  list-style-image:url('/viparimages/button-closed.png');
+  cursor:pointer;
+}
+
+body {
+/*background: #f8ffe8; /* Old browsers */
+/* IE9 SVG, needs conditional override of 'filter' to 'none' */
+/*background: url(data:image/svg+xml;base64,PD94bWwgdmVyc2lvbj0iMS4wIiA/Pgo8c3ZnIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyIgd2lkdGg9IjEwMCUiIGhlaWdodD0iMTAwJSIgdmlld0JveD0iMCAwIDEgMSIgcHJlc2VydmVBc3BlY3RSYXRpbz0ibm9uZSI+CiAgPGxpbmVhckdyYWRpZW50IGlkPSJncmFkLXVjZ2ctZ2VuZXJhdGVkIiBncmFkaWVudFVuaXRzPSJ1c2VyU3BhY2VPblVzZSIgeDE9IjAlIiB5MT0iMCUiIHgyPSIxMDAlIiB5Mj0iMTAwJSI+CiAgICA8c3RvcCBvZmZzZXQ9IjAlIiBzdG9wLWNvbG9yPSIjZjhmZmU4IiBzdG9wLW9wYWNpdHk9IjEiLz4KICAgIDxzdG9wIG9mZnNldD0iMTAwJSIgc3RvcC1jb2xvcj0iI2UzZjVhYiIgc3RvcC1vcGFjaXR5PSIxIi8+CiAgICA8c3RvcCBvZmZzZXQ9IjEwMCUiIHN0b3AtY29sb3I9IiNiN2RmMmQiIHN0b3Atb3BhY2l0eT0iMSIvPgogIDwvbGluZWFyR3JhZGllbnQ+CiAgPHJlY3QgeD0iMCIgeT0iMCIgd2lkdGg9IjEiIGhlaWdodD0iMSIgZmlsbD0idXJsKCNncmFkLXVjZ2ctZ2VuZXJhdGVkKSIgLz4KPC9zdmc+);
+background: -moz-linear-gradient(-45deg,  #f8ffe8 0%, #e3f5ab 100%, #b7df2d 100%); /* FF3.6+ */
+/*background: -webkit-gradient(linear, left top, right bottom, color-stop(0%,#f8ffe8), color-stop(100%,#e3f5ab), color-stop(100%,#b7df2d)); /* Chrome,Safari4+ */
+/*background: -webkit-linear-gradient(-45deg,  #f8ffe8 0%,#e3f5ab 100%,#b7df2d 100%); /* Chrome10+,Safari5.1+ */
+/*background: -o-linear-gradient(-45deg,  #f8ffe8 0%,#e3f5ab 100%,#b7df2d 100%); /* Opera 11.10+ */
+/*background: -ms-linear-gradient(-45deg,  #f8ffe8 0%,#e3f5ab 100%,#b7df2d 100%); /* IE10+ */
+/*background: linear-gradient(135deg,  #f8ffe8 0%,#e3f5ab 100%,#b7df2d 100%); /* W3C */
+/*filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#f8ffe8', endColorstr='#b7df2d',GradientType=1 ); /* IE6-8 fallback on horizontal gradient */
+
+ margin:5;
+ padding:5;
+ height:100%;
+ font-family:"verdana","geneva",sans-serif;
+ font-size:15px;
+ color:black;
+ }
+A:link {text-decoration:none;color:black}
+A:visited {text-decoration:none;color:black}
+A:active {text-decoration:none;color:black}
+A:hover {text-decoration:underline;color:black}
+fieldset {  
+ width:330px;  
+ font-family:"verdana","geneva",sans-serif;
+ font-size:14px;  
+ }  
+legend {  
+ width:150px;  
+ text-align:center;  
+ background:white;  
+ border:solid 1px;  
+ margin:1px;  
+ font-weight:bold;  
+ color:#94cbb2;  
+ }  
+.logindiv {
+ width:500px;
+ height:200px;
+ position:absolute;
+ top:50%;
+ left:50%;
+ margin-left:-250px;
+ margin-top:-100px;
+ }
+.logout {
+ position:absolute;
+ top:20px;
+ right:70px;
+ z-index:2;
+ font-family:"verdana","geneva",sans-serif;
+ font-size:15px;
+ color:#6276f1;
+ }
+.credit {
+ position:absolute;
+ bottom:5px;
+ right:20px;
+ z-index:2;
+ font-family:"verdana","geneva",sans-serif;
+ font-size:10px;
+ color:#6276f1;
+ }
+.logout A:link {text-decoration:none; color:#6276f1;}
+.logout A:visited {text-decoration:none; color:#6276f1;}
+.logout A:active {text-decoration:none; color:#6276f1;}
+.logout A:hover {text-decoration:underline; color:#6276f1;}
+.projmenu {
+ width:18%;
+ height:91%;
+ border:#94cbb2 5px solid;
+ position:absolute;
+ padding:15px;
+ overflow:auto;
+ }
+.projdetails {
+ width:73%;
+ height:91%;
+ left:22%;
+ border:#94cbb2 5px solid;
+ position:absolute;
+ padding:15px;
+ overflow:auto;
+ }
+.sitestat {
+ width:97%;
+ left:0%;
+ height:60px;
+ border:#b6e3cf 3px solid;
+ bottom:0px;
+ position:absolute;
+ padding:10px;
+ }
+.upload {
+ width:53%;
+ height:45px;
+ border:#b6e3cf 3px solid;
+ bottom:0px;
+ position:absolute;
+ padding:10px;
+ }
+.maindisplay {
+ margin: 0 auto;
+ width: 95%;
+ overflow : auto;
+ padding: 0; /* Zero to prevent IE box trouble. */
+ }
+.projdesc {
+ border:#b6e3cf 3px solid;
+ text-align: left;
+ margin: 0 auto;
+ width: 90%;
+ height: 150px;
+ overflow : auto;
+ padding: 0; /* Zero to prevent IE box trouble. */
+ }
+.fileman {
+ border:#b6e3cf 3px solid;
+ text-align: left;
+ margin: 0 auto;
+ width: 60%;
+ height: 120px;
+ overflow : auto;
+ padding: 0; /* Zero to prevent IE box trouble. */
+ }
+.filemanauto {
+ border:#b6e3cf 3px solid;
+ text-align: left;
+ margin: 0 auto;
+ width: 60%;
+ overflow : auto;
+ padding: 0; /* Zero to prevent IE box trouble. */
+ }
+.fl {
+ float:left;
+ }
+.spacer {
+ clear:both;
+ border:white 0px solid;
+ margin: 0 auto;
+ text-align: left;
+ width: 60%;
+ height: 5px;
+ overflow : hidden;
+ padding: 0; /* Zero to prevent IE box trouble. */
+ }
+.checkpad {
+ padding:20px;
+ }
+.linkrunning {
+ cursor:wait;
+}
+.linkrunning:hover {text-decoration: underline;}
+
+.link {
+ cursor:pointer;
+ }
+.link:hover {text-decoration: underline;}
+.files {
+ width:100%;
+ }
+.datetime {
+ width:110px;
+ }
+.datetime.center {
+ text-align:center;  
+ }
+.center {
+ text-align:center;  
+ }
+.files tr:hover {
+ background-color:#b6e3cf;
+ }
+.files td, tr{
+ border-style:solid;
+ border-width:1px;
+ border-color:#C6C3C6;
+ border-collapse:collapse;
+ font-size:11px;
+ font-family:"verdana","geneva",sans-serif;
+ padding:3px;
+ }
+h2 {
+ font-size:15px;
+ color:#6dba70;
+ }
+.projhead {
+ font-family:"verdana","geneva",sans-serif;
+ font-size:15px;
+ }
+.hidinit {
+ visibility:hidden;
+ display:none;
+/* position:absolute;*/
+ }
+.warn {
+ font-size:10px;
+ color:red;
+ }
+.tinytext {
+ font-size:8px;
+ font-family:"verdana","geneva",sans-serif;
+ }
+.medtext {
+ font-size:10px;
+ font-family:"verdana","geneva",sans-serif;
+ }
+.na {
+ color:red;
+ }
+.sitedown {
+ font-size:20px;
+ font-family:"verdana","geneva",sans-serif;
+ color:red;
+ }
+.red {
+ color:red;
+ }
+tr.cert td {
+ background-color:#b6e3cf;
+ text-align:center;  
+ border-style:solid;
+ border-width:1px;
+ border-color:#C6C3C6;
+ border-collapse:collapse;
+ font-size:11px;
+ font-family:"verdana","geneva",sans-serif;
+ padding:3px;
+ }
+tr.projcert td {
+ background-color:#ffdd99;
+ text-align:center;  
+ border-style:solid;
+ border-width:1px;
+ border-color:#C6C3C6;
+ border-collapse:collapse;
+ font-size:11px;
+ font-family:"verdana","geneva",sans-serif;
+ padding:3px;
+ }
+tr.nocert td {
+ text-align:center;  
+ border-style:solid;
+ border-width:1px;
+ border-color:#C6C3C6;
+ border-collapse:collapse;
+ font-size:11px;
+ font-family:"verdana","geneva",sans-serif;
+ padding:3px;
+ }
+
+/* this is for the flag popup to replace the tooltip in the href as line breaks aren't working in all browsers */
+#tdpop { position: relative; }
+#tdpop div { display: none; }
+#tdpop:hover div { display: block; position: absolute; top: -15px; width: 600px; background: #FFFFCC; font-weight: bold; }
+
+a img {outline : none;}
+img {border : 0;}
+
+#container{
+ position: relative;
+ width: 600px;
+ height: 800px;
+ overflow: scroll;
+}
+#main_image{
+ position: relative;
+ width: 100%;
+ height: 100%;
+ z-index: 1;
+}
+#overlay_image{
+ position: absolute;
+ bottom: 0px;
+ right: 0px;
+ width: 100%;
+ height: 100%;
+ z-index: 10;
+}

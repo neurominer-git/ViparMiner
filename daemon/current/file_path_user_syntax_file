@@ -1,0 +1,9 @@
+my $filepath = $ENV{'VIPAR_ROOT'}."/projects";
+my $project_dir = "$filepath/project_$project";
+my $date = join("_",@currdate);
+my $rundir = "$project_dir/$date";
+my $time = join("_",@currtime);
+my $workingdir = "$rundir/$time";
+my $batchcode = "$workingdir/user_syntax.txt";
+
+$batchcode =
